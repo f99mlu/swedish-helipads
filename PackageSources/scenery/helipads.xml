@@ -9,6 +9,10 @@
 	<SceneryObject groupIndex="89" lat="59.84730576831198" lon="17.64024168615304" alt="6.55874808836479" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+    <!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="59.84730576831198" lon="17.64024168615304" alt="36.55874808836479" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="112" groupID="14" groupGenerated="FALSE" region="Östra Svealand" country="Sweden" state="Stockholm" city="Västerhaninge" name="Berga heliport" ident="ESQP" lat="59.06846560713803" lon="18.11413135910443" alt="5.83872713427991" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="14" groupIndex="1" type="H" lat="59.06846560713803" lon="18.11413135910443" alt="5.83872713427991" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -19,6 +23,10 @@
 	<SceneryObject groupIndex="73" lat="59.06846560713803" lon="18.11413135910443" alt="-0.00000001993239" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+    <!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="59.06846560713803" lon="18.11413135910443" alt="30.00000001993239" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 	<Polygon groupIndex="47" altitude="3.43024086952209">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{DFB90FED-93AF-4253-8831-63EFD72FB7E5}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
@@ -53,6 +61,10 @@
 	<SceneryObject groupIndex="55" lat="56.18327344867836" lon="15.60887024967223" alt="0.50944231305186" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+    <!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="56.18327344867836" lon="15.60887024967223" alt="30.50944231305186" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Hälsingland" country="Sweden" state="Hälsingland" city="Bollnäs" name="Bollnäs Sjukhus" ident="ESJB" lat="61.35277753818971" lon="16.36104824123282" alt="76.87115119583905" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="61.35277753818971" lon="16.36104824123282" alt="76.87115119583905" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -63,6 +75,10 @@
 	<SceneryObject groupIndex="95" lat="61.35277753818971" lon="16.36104824123282" alt="-0.00001097546510" pitch="0.001025" bank="-0.001025" heading="-6.686516" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="61.35277753818971" lon="16.36104824123282" alt="30.00001097546510" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Värmland" country="Sweden" state="Värmland" city="Karlstad" name="Centralsjukhuset Karlstad" ident="ESHV" lat="59.37629175181588" lon="13.47606236862783" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="59.37629175181588" lon="13.47606236862783" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -73,6 +89,10 @@
 	<SceneryObject groupIndex="83" lat="59.37629175181588" lon="13.47606236862783" alt="0.00000000000000" pitch="0.001462" bank="-0.001462" heading="141.279949" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="59.37629175181588" lon="13.47606236862783" alt="30.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="43" groupID="8" groupGenerated="FALSE" region="Skåne" country="Sweden" state="Skåne" city="Kristianstad" name="Centralsjukhuset Kristianstad" ident="ESHI" lat="56.02932119708851" lon="14.17179725222689" alt="7.23461680468172" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="8" groupIndex="1" type="H" lat="56.02932119708851" lon="14.17179725222689" alt="7.23461680468172" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -83,6 +103,10 @@
 	<SceneryObject groupIndex="60" lat="56.02932119708851" lon="14.17179725222689" alt="1.27173144893930" pitch="0.002268" bank="-0.002370" heading="63.807969" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+    <!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="56.02932119708851" lon="14.17179725222689" alt="31.27173144893930" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Dalsland" country="Sweden" state="Dalsland" city="Bäckefors" name="Dalslands sjukhus" ident="ESXD" lat="58.79759337826346" lon="12.16162865130723" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="58.79759337826346" lon="12.16162865130723" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -93,6 +117,10 @@
 	<SceneryObject groupIndex="70" lat="58.79759337826346" lon="12.16162865130723" alt="1.49388982838229" pitch="0.000765" bank="-0.000758" heading="-16.380563" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="58.79759337826346" lon="12.16162865130723" alt="31.49388982838229" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Danderyds sjukhus" ident="ESHD" lat="59.39107487199071" lon="18.03347939395473" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="59.39107487199071" lon="18.03347939395473" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -103,6 +131,10 @@
 	<SceneryObject groupIndex="84" lat="59.39107487199071" lon="18.03347939395473" alt="-0.00000333153051" pitch="0.001257" bank="-0.001257" heading="102.086384" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="59.39107487199071" lon="18.03347939395473"  alt="30.00000333153051" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Dalarna" country="Sweden" state="Dalarna" city="Falun" name="Falu lasarett" ident="ESEF" lat="60.60759662078096" lon="15.64534110825507" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="60.60759662078096" lon="15.64534110825507" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -113,6 +145,10 @@
 	<SceneryObject groupIndex="91" lat="60.60759662078096" lon="15.64534110825507" alt="12.80852417720735" pitch="0.001045" bank="-0.001045" heading="79.859391" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="60.60759662078096" lon="15.64534110825507" alt="42.80852417720735" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Gästrikland" country="Sweden" state="Gästrikland" city="Gävle" name="Gävle lotsplats" ident="ESXG" lat="60.73910390044672" lon="17.31791441391647" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="60.73910390044672" lon="17.31791441391647" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -123,7 +159,10 @@
 	<SceneryObject groupIndex="93" lat="60.73910390044672" lon="17.31791441391647" alt="-0.13486834999041" pitch="0.001284" bank="-0.001284" heading="-146.999577" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
-
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="60.73910390044672" lon="17.31791441391647"  alt="30.13486834999041" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 	<Polygon groupIndex="49" altitude="0.07655071467161">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{80C6B627-D696-4130-8A29-D7A89859D83C}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
@@ -164,6 +203,10 @@
 	<SceneryObject groupIndex="92" lat="60.68144312925227" lon="17.11819161785776" alt="-0.02931654706906" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="60.68144312925227" lon="17.11819161785776"  alt="30.02931654706906" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Jämtland" country="Sweden" state="Jämtland" city="Östersund" name="Göviken Heliport" ident="ESZG" lat="63.19152973406209" lon="14.63086462812756" alt="475.73872713427988" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="63.19152973406209" lon="14.63086462812756" alt="475.73872713427988" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -174,6 +217,10 @@
 	<SceneryObject groupIndex="99" lat="63.19152973406209" lon="14.63086462812756" alt="3.35147648435145" pitch="0.000854" bank="-0.000854" heading="87.400453" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="63.19152973406209" lon="14.63086462812756" alt="33.35147648435145" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 	<Polygon groupIndex="37" altitude="296.57592773437500">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{3B7FBDE9-BA1D-4126-8951-33C38DB6B197}"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
@@ -215,6 +262,10 @@
 	<SceneryObject groupIndex="58" lat="55.84185175961352" lon="14.09045989318218" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="54.297555" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="55.84185175961352" lon="14.09045989318218" alt="30.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Fejan" ident="ESXF" lat="59.74365380915627" lon="19.16427177986398" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="59.74365380915627" lon="19.16427177986398" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -225,6 +276,10 @@
 	<SceneryObject groupIndex="87" lat="59.74365380915627" lon="19.16427177986398" alt="5.65783768871642" pitch="0.000956" bank="-0.000956" heading="-105.468434" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="59.74365380915627" lon="19.16427177986398" alt="35.65783768871642" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Gamla stan" ident="ESHG" lat="59.32278490062074" lon="18.06618446455345" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="59.32278490062074" lon="18.06618446455345" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -235,6 +290,10 @@
 	<SceneryObject groupIndex="78" lat="59.32278490062074" lon="18.06618446455345" alt="1.41466882205118" pitch="0.001066" bank="-0.001066" heading="70.424762" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="59.32278490062074" lon="18.06618446455345" alt="31.41466882205118" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Nynäshamn" ident="ESXN" lat="58.85017088514527" lon="17.83293491156532" alt="31.16689862590283" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="58.85017088514527" lon="17.83293491156532" alt="31.16689862590283" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -245,7 +304,10 @@
 	<SceneryObject groupIndex="71" lat="58.85017088514527" lon="17.83293491156532" alt="-0.00001414832695" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
-
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="58.85017088514527" lon="17.83293491156532"  alt="30.00001414832695" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 	<Polygon groupIndex="45" altitude="28.53982734680176">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{154E5CC5-6836-4D46-A4E6-FC85B2084ECE}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
@@ -305,6 +367,10 @@
 	<SceneryObject groupIndex="72" lat="59.05226319607875" lon="18.43249668658641" alt="-0.27517595554660" pitch="0.001544" bank="-0.001544" heading="49.240340" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="59.05226319607875" lon="18.43249668658641" alt="30.27517595554660" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Sandhamn" ident="ESXL" lat="59.28943878214111" lon="18.91577051572747" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="59.28943878214111" lon="18.91577051572747" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -315,6 +381,10 @@
 	<SceneryObject groupIndex="76" lat="59.28943878214111" lon="18.91577051572747" alt="-0.00000190806131" pitch="0.000984" bank="-0.000984" heading="-122.424065" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="59.28943878214111" lon="18.91577051572747" alt="30.00000190806131" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="115" groupID="17" groupGenerated="FALSE" region="Småland" country="Sweden" state="Småland" city="Tranås" name="Helikopterplatta Tranås" ident="ESXT" lat="58.05158011088356" lon="15.00997971316087" alt="180.53872713427987" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="17" groupIndex="1" type="H" lat="58.05158011088356" lon="15.00997971316087" alt="180.53872713427987" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -325,6 +395,10 @@
 	<SceneryObject groupIndex="65" lat="58.05158011088356" lon="15.00997971316087" alt="-0.00001877197664" pitch="0.001291" bank="-0.001291" heading="-122.952776" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="58.05158011088356" lon="15.00997971316087" alt="30.00001877197664" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Vaxholm" ident="ESXV" lat="59.40040636184780" lon="18.33425763805695" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="59.40040636184780" lon="18.33425763805695" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -335,7 +409,10 @@
 	<SceneryObject groupIndex="85" lat="59.40040636184780" lon="18.33425763805695" alt="-0.00000005614855" pitch="0.000505" bank="-0.000540" heading="-107.210488" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
-
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="1" lat="59.40040636184780" lon="18.33425763805695" alt="30.00000005614855" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 	<Polygon groupIndex="48" altitude="0.81494271755219">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{D9DD792C-876C-4926-A4D3-4BF221C49DFC}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
@@ -358,6 +435,10 @@
 	<SceneryObject groupIndex="63" lat="56.03737646620115" lon="12.68982797481934" alt="-0.00001621942743" pitch="0.003039" bank="-0.003039" heading="-19.041912" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+    <!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="56.03737646620115" lon="12.68982797481934" alt="30.00001621942743" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Hälsingland " country="Sweden" state="Hälsingland " city="Hudiksvall" name="Hudiksvalls Sjukhus" ident="ESHX" lat="61.73059457894975" lon="17.09994460269645" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="61.73059457894975" lon="17.09994460269645" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -368,6 +449,10 @@
 	<SceneryObject groupIndex="96" lat="61.73059457894975" lon="17.09994460269645" alt="10.43477218697524" pitch="0.000663" bank="-0.000704" heading="-97.630314" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+    <!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="61.73059457894975" lon="17.09994460269645" alt="40.43477218697524" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Lappland" country="Sweden" state="Lappland" city="Gällivare" name="Ivare/Vassara" ident="ESEG" lat="67.13656333143561" lon="20.63366660244402" alt="362.33314279094338" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="67.13656333143561" lon="20.63366660244402" alt="362.33314279094338" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -378,6 +463,10 @@
 	<SceneryObject groupIndex="104" lat="67.13656333143561" lon="20.63366660244402" alt="-0.00003262411565" pitch="0.000540" bank="-0.000540" heading="-95.925335" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+    <!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="67.13656333143561" lon="20.63366660244402" alt="30.00003262411565" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Karolinska Universitetssjukhuset Huddinge" ident="ESHL" lat="59.21982475386514" lon="17.93420962115555" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="59.21982475386514" lon="17.93420962115555" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -388,6 +477,10 @@
 	<SceneryObject groupIndex="74" lat="59.21982475386514" lon="17.93420962115555" alt="13.66214237760825" pitch="0.001544" bank="-0.001544" heading="34.165214" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+    <!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="59.21982475386514" lon="17.93420962115555" alt="43.66214237760825" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Karolinska Universitetssjukhuset Solna" ident="ESHK" lat="59.35033669532523" lon="18.031708864520866" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="59.35108811547411" lon="18.03524996151978" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -402,14 +495,26 @@
 	<SceneryObject groupIndex="82" lat="59.35108811549981" lon="18.03524996147890" alt="0.13309894559034" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="59.35108811549981" lon="18.03524996147890" alt="30.13309894559034" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 	<!--SceneryObject name: GBZH35_Helipad_Hexa-->
 	<SceneryObject groupIndex="80" lat="59.34919532310374" lon="18.03212651410725" alt="15.38707317940958" pitch="0.000779" bank="-0.000779" heading="152.161861" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="59.34919532310374" lon="18.03212651410725" alt="45.38707317940958" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 	<!--SceneryObject name: GBZH35_Helipad_Hexa-->
 	<SceneryObject groupIndex="81" lat="59.34947155611648" lon="18.03182804001150" alt="14.78096929908160" pitch="0.001544" bank="-0.001544" heading="60.972662" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="59.34947155611648" lon="18.03182804001150" alt="44.78096929908160" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Lappland" country="Sweden" state="Lappland" city="Kiruna" name="Kiruna Sjukhus" ident="ESEK" lat="67.85040015120410" lon="20.23662798208311" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="67.85040015120410" lon="20.23662798208311" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -420,7 +525,10 @@
 	<SceneryObject groupIndex="105" lat="67.85040015120410" lon="20.23662798208311" alt="1.16046672534389" pitch="0.001284" bank="-0.001284" heading="-22.377325" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
-
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="67.85040015120410" lon="20.23662798208311" alt="31.16046672534389" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 	<Polygon groupIndex="46" altitude="539.33062744140625">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{D71705F7-C801-456B-A0B4-D3B731C1EF23}"/>
 		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
@@ -445,6 +553,10 @@
 	<SceneryObject groupIndex="64" lat="57.87716873148544" lon="11.96812914758050" alt="-0.05806505218801" pitch="0.001544" bank="-0.001544" heading="24.812493" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="57.87716873148544" lon="11.96812914758050" alt="30.05806505218801" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="42" groupID="3" groupGenerated="FALSE" region="Skåne" country="Sweden" state="Skåne" city="Lund" name="Lunds lasarett" ident="ESEM" lat="55.71175353677557" lon="13.19877649918881" alt="137.98868653550744" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="3" groupIndex="1" type="H" lat="55.71175353677557" lon="13.19877649918881" alt="137.98868653550744" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -455,6 +567,10 @@
 	<SceneryObject groupIndex="54" lat="55.71175353677557" lon="13.19877649918881" alt="63.19310379762538" pitch="0.000704" bank="-0.000704" heading="-161.439635" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+    <!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="23" lat="55.71175353677557" lon="13.19877649918881" alt="93.19310379762538" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Lappland" country="Sweden" state="Lappland" city="Lycksele" name="Lycksele lasarett" ident="ESEY" lat="64.58535949518122" lon="18.68095591322099" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="64.58535949518122" lon="18.68095591322099" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -465,6 +581,10 @@
 	<SceneryObject groupIndex="102" lat="64.58535949518122" lon="18.68095591322099" alt="-1.29734618646415" pitch="0.001455" bank="-0.001455" heading="81.040031" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="64.58535949518122" lon="18.68095591322099" alt="31.29734618646415" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="114" groupID="9" groupGenerated="FALSE" region="Småland" country="Sweden" state="Småland" city="Jönköping" name="Länssjukhuset Ryhov" ident="ESHJ" lat="57.76477642031671" lon="14.19451190905705" alt="112.73872713427988" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="9" groupIndex="1" type="H" lat="57.76477642031671" lon="14.19451190905705" alt="112.73872713427988" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -475,6 +595,10 @@
 	<SceneryObject groupIndex="62" lat="57.76477642031671" lon="14.19451190905705" alt="0.70112989102850" pitch="0.002493" bank="-0.001544" heading="2.468062" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="57.76477642031671" lon="14.19451190905705" alt="30.70112989102850" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="41" groupID="10" groupGenerated="FALSE" region="Skåne" country="Sweden" state="Skåne" city="Malmö" name="Malmö Harbour Heliport" ident="ESXM" lat="55.61945317493360" lon="12.97820297171964" alt="2.84404667932540" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="10" groupIndex="1" type="H" lat="55.61945317493360" lon="12.97820297171964" alt="2.84404667932540" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -485,6 +609,10 @@
 	<SceneryObject lat="55.61945317493360" lon="12.97820297171964" alt="-0.00000000139538" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+    <!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="4" lat="55.61945317493360" lon="12.97820297171964" alt="30.00000000139538" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 	<Polygon groupIndex="51" altitude="-0.13533875346184">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{9C9DBB7F-F789-43A6-8138-FBA99167109B}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
@@ -511,6 +639,10 @@
 	<SceneryObject groupIndex="94" lat="61.01720848117775" lon="14.58422246470262" alt="8.99532707934489" pitch="0.001161" bank="-0.001161" heading="-147.688743" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="61.01720848117775" lon="14.58422246470262" alt="38.99532707934489" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Lappland" country="Sweden" state="Lappland" city="Kiruna" name="Nikkaluokta Helikopterplats" ident="ESXK" lat="67.85071545321367" lon="19.00475336978393" alt="478.91289548948407" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="67.85071545321367" lon="19.00475336978393" alt="478.91289548948407" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -521,7 +653,10 @@
 	<SceneryObject groupIndex="106" lat="67.85071545321367" lon="19.00475336978393" alt="-0.00007165471231" pitch="0.000820" bank="-0.000820" heading="54.297555" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
-
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="67.85071545321367" lon="19.00475336978393" alt="30.00007165471231" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 	<Polygon groupIndex="50" altitude="479.96035766601562">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{5EA7BBB2-3D78-4982-BCE4-A538AC5C6384}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
@@ -547,6 +682,10 @@
 	<SceneryObject groupIndex="66" lat="58.31899592821959" lon="12.26820475553729" alt="0.00354732378025" pitch="0.001025" bank="-0.001025" heading="-87.416012" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="58.31899592821959" lon="12.26820475553729" alt="30.00354732378025" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Västerbotten" country="Sweden" state="Västerbotten" city="Umeå" name="Norrlands universitetssjukhus" ident="ESHZ" lat="63.81677512129653" lon="20.29802000947305" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="63.81677512129653" lon="20.29802000947305" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -557,6 +696,10 @@
 	<SceneryObject groupIndex="101" lat="63.81677512129653" lon="20.29802000947305" alt="15.58301003938556" pitch="0.001154" bank="-0.001154" heading="-63.035317" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="63.81677512129653" lon="20.29802000947305" alt="45.58301003938556" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Uppland" country="Sweden" state="Uppland" city="Norrtälje" name="Norrtälje Sjukhus" ident="ESHY" lat="59.75764995495800" lon="18.68935341391554" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="59.75764995495800" lon="18.68935341391554" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -567,6 +710,10 @@
 	<SceneryObject groupIndex="88" lat="59.75764995495800" lon="18.68935341391554" alt="15.08516583503537" pitch="0.000526" bank="-0.000526" heading="-104.611041" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="59.75764995495800" lon="18.68935341391554" alt="45.08516583503537" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="111" groupID="12" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Göteborg" name="Sahlgrenska Universitetssjukhuset" ident="ESHS" lat="57.68362661957372" lon="11.95664015109722" alt="58.37960248250298" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="12" groupIndex="1" type="H" lat="57.68362661957372" lon="11.95664015109722" alt="58.37960248250298" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -577,6 +724,10 @@
 	<SceneryObject groupIndex="57" lat="57.68362661957372" lon="11.95664015109722" alt="7.17248178489626" pitch="0.000922" bank="-0.000922" heading="156.404037" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="57.68362661957372" lon="11.95664015109722" alt="37.17248178489626" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Värmland" country="Sweden" state="Värmland" city="Torsby" name="Sjukhuset i Torsby" ident="ESET" lat="60.13673386164637" lon="12.99743722769622" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="60.13673386164637" lon="12.99743722769622" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -587,7 +738,10 @@
 	<SceneryObject groupIndex="90" lat="60.13673386164637" lon="12.99743722769622" alt="0.84835053271468" pitch="0.001161" bank="-0.001161" heading="-3.717904" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
-
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="60.13673386164637" lon="12.99743722769622" alt="30.84835053271468" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 	<Polygon groupIndex="53" altitude="100.99989318847656">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{5C9588C4-D245-46C8-86AC-6EC86EBC95FF}"/>
 		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
@@ -614,6 +768,10 @@
 	<SceneryObject groupIndex="69" lat="58.42540194001825" lon="13.84801318849800" alt="-1.08633320217385" pitch="0.001544" bank="-0.001544" heading="80.892608" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="58.42540194001825" lon="13.84801318849800" alt="31.08633320217385" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Stockholm-Gärdet heliport" ident="ESHT" lat="59.34074692163265" lon="18.10384678745282" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="59.34074692163265" lon="18.10384678745282" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -624,6 +782,10 @@
 	<SceneryObject groupIndex="79" lat="59.34074692163265" lon="18.10384678745282" alt="2.56393271441122" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="59.34074692163265" lon="18.10384678745282" alt="32.56393271441122" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Norrbotten" country="Sweden" state="Norrbotten" city="Södra Sunderbyn" name="Sunderby sjukhus" ident="ESES" lat="65.67239490691350" lon="21.93584576259942" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="65.67239490691350" lon="21.93584576259942" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -634,7 +796,10 @@
 	<SceneryObject groupIndex="103" lat="65.67239490691350" lon="21.93584576259942" alt="0.48851567116400" pitch="0.000546" bank="-0.000546" heading="-118.232514" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
-
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="65.67239490691350" lon="21.93584576259942" alt="30.48851567116400" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 	<Polygon groupIndex="52" altitude="12.51960563659668">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{54F3D9A8-D20C-4A09-BD95-A4E5622A7028}"/>
 		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
@@ -656,6 +821,10 @@
 	<SceneryObject groupIndex="98" lat="62.40793316011527" lon="17.30238867720627" alt="-0.63178517456588" pitch="0.000997" bank="-0.000997" heading="-91.523162" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="62.40793316011527" lon="17.30238867720627" alt="30.63178517456588" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Härjedalen" country="Sweden" state="Härjedalen" city="Sveg" name="Svegs Hälsocentral" ident="ESXS" lat="62.03965998631195" lon="14.35225443519031" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="62.03965998631195" lon="14.35225443519031" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -666,6 +835,10 @@
 	<SceneryObject groupIndex="97" lat="62.03965998631195" lon="14.35225443519031" alt="0.36786529593633" pitch="0.000970" bank="-0.000970" heading="152.315513" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="62.03965998631195" lon="14.35225443519031" alt="30.36786529593633" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Södersjukhuset" ident="ESHC" lat="59.30848207672854" lon="18.05475452999793" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="59.30848207672854" lon="18.05475452999793" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -676,6 +849,10 @@
 	<SceneryObject groupIndex="77" lat="59.30848207672854" lon="18.05475452999793" alt="2.42131615884037" pitch="0.003039" bank="-0.003039" heading="-58.791495" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="59.30848207672854" lon="18.05475452999793" alt="32.42131615884037" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="109" groupID="2" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Borås" name="Södra Älvsborgs sjukhus" ident="ESEB" lat="57.72419036784135" lon="12.96433752227793" alt="183.87960248250297" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="2" groupIndex="1" type="H" lat="57.72419036784135" lon="12.96433752227793" alt="183.87960248250297" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -686,6 +863,10 @@
 	<SceneryObject groupIndex="61" lat="57.72419036784135" lon="12.96433752227793" alt="2.27960248250298" pitch="0.001544" bank="-0.001544" heading="-45.580851" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="57.72419036784135" lon="12.96433752227793" alt="32.27960248250298" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="119" groupID="4" groupGenerated="FALSE" region="Bohuslän" country="Sweden" state="Bohuslän" city="Uddevalla" name="Uddevalla Sjukhus" ident="ESEU" lat="58.35734421818180" lon="11.92873761590188" alt="28.06282702740282" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="4" groupIndex="1" type="H" lat="58.35734421818180" lon="11.92873761590188" alt="28.06282702740282" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -696,6 +877,10 @@
 	<SceneryObject groupIndex="67" lat="58.35734421818180" lon="11.92873761590188" alt="1.24314180823756" pitch="0.000656" bank="-0.000656" heading="81.173008" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="58.35734421818180" lon="11.92873761590188" alt="31.24314180823756" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Östergötland" country="Sweden" state="Östergötland" city="Linköping" name="Universitetssjukhuset i Linköping" ident="ESEL" lat="58.40171424040022" lon="15.61955414897124" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="58.40171424040022" lon="15.61955414897124" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -706,6 +891,10 @@
 	<SceneryObject groupIndex="68" lat="58.40171424040022" lon="15.61955414897124" alt="24.02488335900371" pitch="0.002233" bank="-0.002254" heading="110.491396" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="58.40171424040022" lon="15.61955414897124" alt="54.02488335900371" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Närke" country="Sweden" state="Närke" city="Örebro" name="Universitetssjukhuset Örebro" ident="ESHQ" lat="59.27477002414410" lon="15.22903042802250" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="59.27477002414410" lon="15.22903042802250" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -716,6 +905,10 @@
 	<SceneryObject groupIndex="75" lat="59.27477002414410" lon="15.22903042802250" alt="17.10532890621741" pitch="0.000867" bank="-0.000867" heading="-68.243173" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="59.27477002414410" lon="15.22903042802250" alt="47.10532890621741" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="108" groupID="5" groupGenerated="FALSE" region="Gotland" country="Sweden" state="Gotland" city="Visby" name="Visby Lasarett" ident="ESEV" lat="57.64991537132354" lon="18.30093373013537" alt="9.01386671140790" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="5" groupIndex="1" type="H" lat="57.64991537132354" lon="18.30093373013537" alt="9.01386671140790" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -726,6 +919,10 @@
 	<SceneryObject groupIndex="56" lat="57.64991537132354" lon="18.30093373013537" alt="1.33016348124939" pitch="0.003033" bank="-0.003005" heading="69.929526" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="57.64991537132354" lon="18.30093373013537" alt="31.33016348124939" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="113" groupID="18" groupGenerated="FALSE" region="Västmanland" country="Sweden" state="Västmanland" city="Västerås" name="Västmanlands Sjukhus Västerås" ident="ESEW" lat="59.61577711115217" lon="16.58208224664292" alt="50.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="18" groupIndex="1" type="H" lat="59.61577711115217" lon="16.58208224664292" alt="50.00000000000000" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -736,7 +933,10 @@
 	<SceneryObject groupIndex="86" lat="59.61577711115217" lon="16.58208224664292" alt="0.23619255797858" pitch="0.000608" bank="-0.000635" heading="-74.718711" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
-
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="59.61577711115217" lon="16.58208224664292" alt="30.23619255797858" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 	<Polygon groupIndex="44" altitude="35.29826736450195">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{B8ADFAF7-CA0C-4FF9-A593-8ADF565BD4B3}"/>
 		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
@@ -768,6 +968,10 @@
 	<SceneryObject groupIndex="100" lat="63.39417811169172" lon="13.09684001425304" alt="-0.00670439339069" pitch="0.002548" bank="-0.002718" heading="146.294838" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="63.39417811169172" lon="13.09684001425304" alt="30.00670439339069" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 
 	<Airport groupIndex="116" groupID="6" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Göteborg" name="Östra sjukhuset" ident="ESHB" lat="57.72098588539861" lon="12.04780397678924" alt="43.63872713427988" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<Helipad parentGroupID="6" groupIndex="1" type="H" lat="57.72098588539861" lon="12.04780397678924" alt="43.63872713427988" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
@@ -778,4 +982,8 @@
 	<SceneryObject groupIndex="59" lat="57.72098588539861" lon="12.04780397678924" alt="-0.40112841073952" pitch="0.001523" bank="-0.001523" heading="83.170223" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+    <SceneryObject groupIndex="2" lat="57.72098588539861" lon="12.04780397678924" alt="30.40112841073952" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+        <LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+    </SceneryObject>
 </FSData>
