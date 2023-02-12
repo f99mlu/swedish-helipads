@@ -11,7 +11,10 @@ mkdir c:\git-repo
 git clone https://github.com/f99mlu/swedish-helipads.git
 
 ## Build the project
-Run build.bat
+Edit build.bat and customize your SDK and Community folder paths
+
+## Run the project
+Double-click on build.bat
 
 ## Make changes to the helipads
-Edit the file PackageSources\scenery\helipads.xml
+Edit the file PackageSources\scenery\helipads.xml and run build.bat to try it out.
