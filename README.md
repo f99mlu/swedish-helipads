@@ -15,8 +15,3 @@ Run build.bat
 
 ## Make changes to the helipads
 Edit the file PackageSources\scenery\helipads.xml
-
-
-
-## TODO
-https://youtu.be/WjwDzjMnpbU?t=730
