@@ -137,7 +137,7 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
-	<SceneryObject groupIndex="214" lat="59.485504" lon="18.267962" alt="30.00000333153051" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="214" lat="59.48550400000000" lon="18.26796200000000" alt="30.00000333153051" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
@@ -395,7 +395,7 @@
 		<LibraryObject name="{0F22934F-8739-42B7-8C6D-3C3A4689D104}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Pad_Circle-->
-	<SceneryObject groupIndex="139" lat="64.58535949518122" lon="18.68095591322099" alt="-1.29734618646415" pitch="0.001455" bank="-0.001455" heading="81.040031" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="139" lat="64.58535949512883" lon="18.68095591322080" alt="0.49075351884426" pitch="0.001455" bank="-0.001455" heading="81.040031" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<NoSnow/>
 		<LibraryObject name="{0F22934F-8739-42B7-8C6D-3C3A4689D104}" scale="1.000000"/>
 	</SceneryObject>
@@ -480,7 +480,7 @@
 		<LibraryObject name="{4F93F15D-9CC6-4FC0-9293-F9E07102CC81}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Pad_Square_Generic-->
-	<SceneryObject groupIndex="213" lat="59.485504" lon="18.267962" alt="0.57785157275861" pitch="0.001257" bank="-0.001257" heading="137.400452" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="213" lat="59.48550400000000" lon="18.26796200000000" alt="0.57785157275861" pitch="0.001257" bank="-0.001257" heading="137.400452" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<NoSnow/>
 		<LibraryObject name="{4F93F15D-9CC6-4FC0-9293-F9E07102CC81}" scale="1.000000"/>
 	</SceneryObject>
@@ -677,7 +677,7 @@
 	<Polygon groupIndex="151" altitude="296.57592773437500">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{3B7FBDE9-BA1D-4126-8951-33C38DB6B197}"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
-		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="0"/>
+		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
 		<Vertex lat="63.19151970334716" lon="14.63146922813923"/>
 		<Vertex lat="63.19151970330989" lon="14.63146922812009"/>
 		<Vertex lat="63.19153905648171" lon="14.63146289650621"/>
@@ -1012,9 +1012,9 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="172" groupID="14" groupGenerated="FALSE" region="Lappland" country="Sweden" state="Lappland" city="Lycksele" name="Lycksele lasarett" ident="ESEY" lat="64.58535949517392" lon="18.68095591319952" alt="226.28313538618386" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="14" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="64.58535949520005" lon="18.68095591319950" heading="81.040031" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="14" type="NONE" lat="64.58535949520005" lon="18.68095591319950" alt="226.37397776637226" heading="81.040031" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="64.58535949520005" lon="18.68095591319950" alt="226.37397776637226" heading="81.04003143310547"/>
+		<TaxiwayParking parentGroupID="14" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="64.58535949519710" lon="18.68095591319950" heading="81.040031" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="14" type="NONE" lat="64.58535949517727" lon="18.68095591319954" alt="226.25659355893731" heading="81.040031" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="64.58535949517727" lon="18.68095591319954" alt="226.25659355893731" heading="81.04003143310547"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
@@ -1124,217 +1124,217 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="215" groupID="53" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Åkersberga Helikopterflygplats" ident="ESHR" lat="59.485504" lon="18.267962" alt="297.43459881562740" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="53" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.485504" lon="18.267962" heading="137.400452" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="53" type="NONE" lat="59.485504" lon="18.267962" alt="6.26410477794707" heading="137.400452" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="59.485504" lon="18.267962" alt="6.26410477794707" heading="137.40045166015625"/>
+	<Airport groupIndex="215" groupID="27" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Åkersberga Helikopterflygplats" ident="ESHR" lat="59.48550400000000" lon="18.26796200000000" alt="297.43459881562740" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="27" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.48550400000000" lon="18.26796200000000" heading="137.400452" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="27" type="NONE" lat="59.48550400000000" lon="18.26796200000000" alt="6.26410477794707" heading="137.400452" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="59.48550400000000" lon="18.26796200000000" alt="6.26410477794707" heading="137.40045166015625"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="185" groupID="27" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Göteborg" name="Sahlgrenska Universitetssjukhuset" ident="ESHS" lat="57.68362661955410" lon="11.95664015109593" alt="54.68221842218190" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="27" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="57.68362661956400" lon="11.95664015109645" heading="156.404037" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="27" type="NONE" lat="57.68362661954369" lon="11.95664015109583" alt="54.45845779776573" heading="156.404037" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="185" groupID="28" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Göteborg" name="Sahlgrenska Universitetssjukhuset" ident="ESHS" lat="57.68362661955410" lon="11.95664015109593" alt="54.68221842218190" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="28" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="57.68362661956400" lon="11.95664015109645" heading="156.404037" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="28" type="NONE" lat="57.68362661954369" lon="11.95664015109583" alt="54.45845779776573" heading="156.404037" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="57.68362661954369" lon="11.95664015109583" alt="54.45845779776573" heading="156.40403747558594"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="186" groupID="28" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Stockholm-Gärdet heliport" ident="ESHT" lat="59.34074692161299" lon="18.10384678744649" alt="15.28791470173746" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="28" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.34074692160766" lon="18.10384678744680" heading="180.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="28" type="NONE" lat="59.34074692160077" lon="18.10384678744652" alt="15.39373867586255" heading="180.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="186" groupID="29" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Stockholm-Gärdet heliport" ident="ESHT" lat="59.34074692161299" lon="18.10384678744649" alt="15.28791470173746" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="29" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.34074692160766" lon="18.10384678744680" heading="180.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="29" type="NONE" lat="59.34074692160077" lon="18.10384678744652" alt="15.39373867586255" heading="180.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.34074692160077" lon="18.10384678744652" alt="15.39373867586255" heading="180.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="187" groupID="29" groupGenerated="FALSE" region="Uppland" country="Sweden" state="Uppland" city="Uppsala" name="Akademiska Sjukhuset Uppsala" ident="ESHU" lat="59.84730576829750" lon="17.64024168616060" alt="31.76845018099993" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="29" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.84730576831198" lon="17.64024168615304" heading="180.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="29" type="NONE" lat="59.84730576828879" lon="17.64024168616062" alt="31.81122264172882" heading="180.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="187" groupID="30" groupGenerated="FALSE" region="Uppland" country="Sweden" state="Uppland" city="Uppsala" name="Akademiska Sjukhuset Uppsala" ident="ESHU" lat="59.84730576829750" lon="17.64024168616060" alt="31.76845018099993" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="30" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.84730576831198" lon="17.64024168615304" heading="180.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="30" type="NONE" lat="59.84730576828879" lon="17.64024168616062" alt="31.81122264172882" heading="180.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.84730576830439" lon="17.64024168615251" alt="4.76736897468318" heading="180.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="188" groupID="30" groupGenerated="FALSE" region="Värmland" country="Sweden" state="Värmland" city="Karlstad" name="Centralsjukhuset Karlstad" ident="ESHV" lat="59.37629175180214" lon="13.47606236862791" alt="49.60637106839567" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="30" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.37629175181588" lon="13.47606236862783" heading="141.279953" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="30" type="NONE" lat="59.37629175179454" lon="13.47606236862788" alt="49.71208424400538" heading="141.279953" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="188" groupID="31" groupGenerated="FALSE" region="Värmland" country="Sweden" state="Värmland" city="Karlstad" name="Centralsjukhuset Karlstad" ident="ESHV" lat="59.37629175180214" lon="13.47606236862791" alt="49.60637106839567" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="31" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.37629175181588" lon="13.47606236862783" heading="141.279953" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="31" type="NONE" lat="59.37629175179454" lon="13.47606236862788" alt="49.71208424400538" heading="141.279953" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.37629175180599" lon="13.47606236862828" alt="48.32261292915791" heading="141.27995300292969"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="189" groupID="31" groupGenerated="FALSE" region="Hälsingland " country="Sweden" state="Hälsingland " city="Hudiksvall" name="Hudiksvalls Sjukhus" ident="ESHX" lat="61.73059457891777" lon="17.09994460271966" alt="30.02098052203655" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="31" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.73059457894220" lon="17.09994460271665" heading="262.369690" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="31" type="NONE" lat="61.73059457893488" lon="17.09994460271971" alt="29.97780634276569" heading="262.369690" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="189" groupID="32" groupGenerated="FALSE" region="Hälsingland " country="Sweden" state="Hälsingland " city="Hudiksvall" name="Hudiksvalls Sjukhus" ident="ESHX" lat="61.73059457891777" lon="17.09994460271966" alt="30.02098052203655" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="32" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.73059457894220" lon="17.09994460271665" heading="262.369690" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="32" type="NONE" lat="61.73059457893488" lon="17.09994460271971" alt="29.97780634276569" heading="262.369690" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="61.73059457893488" lon="17.09994460271971" alt="29.97780634276569" heading="262.36968994140625"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="190" groupID="32" groupGenerated="FALSE" region="Uppland" country="Sweden" state="Uppland" city="Norrtälje" name="Norrtälje Sjukhus" ident="ESHY" lat="59.75764995493834" lon="18.68935341392653" alt="32.48992169462144" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="32" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.75764995494537" lon="18.68935341392629" heading="255.388962" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="32" type="NONE" lat="59.75764995494057" lon="18.68935341392644" alt="32.56892407685518" heading="255.388962" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="190" groupID="33" groupGenerated="FALSE" region="Uppland" country="Sweden" state="Uppland" city="Norrtälje" name="Norrtälje Sjukhus" ident="ESHY" lat="59.75764995493834" lon="18.68935341392653" alt="32.48992169462144" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="33" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.75764995494537" lon="18.68935341392629" heading="255.388962" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="33" type="NONE" lat="59.75764995494057" lon="18.68935341392644" alt="32.56892407685518" heading="255.388962" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.75764995494057" lon="18.68935341392644" alt="32.56892407685518" heading="255.38896179199219"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="191" groupID="33" groupGenerated="FALSE" region="Västerbotten" country="Sweden" state="Västerbotten" city="Umeå" name="Norrlands universitetssjukhus" ident="ESHZ" lat="63.81677512128419" lon="20.29802000947340" alt="49.16667146794498" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="33" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.81677512129653" lon="20.29802000947305" heading="296.964691" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="33" type="NONE" lat="63.81677512128945" lon="20.29802000947340" alt="49.21612134203315" heading="296.964691" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="191" groupID="34" groupGenerated="FALSE" region="Västerbotten" country="Sweden" state="Västerbotten" city="Umeå" name="Norrlands universitetssjukhus" ident="ESHZ" lat="63.81677512128419" lon="20.29802000947340" alt="49.16667146794498" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="34" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.81677512129653" lon="20.29802000947305" heading="296.964691" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="34" type="NONE" lat="63.81677512128945" lon="20.29802000947340" alt="49.21612134203315" heading="296.964691" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="63.81677512128945" lon="20.29802000947340" alt="49.21612134203315" heading="296.96469116210938"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="192" groupID="34" groupGenerated="FALSE" region="Gästrikland" country="Sweden" state="Gästrikland" city="Gävle" name="Gävle sjukhus" ident="ESJA" lat="60.68144312924339" lon="17.11819161784349" alt="24.79417030792683" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="34" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.68144312924760" lon="17.11819161784443" heading="180.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="34" type="NONE" lat="60.68144312924105" lon="17.11819161784354" alt="24.78719473350793" heading="180.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="192" groupID="35" groupGenerated="FALSE" region="Gästrikland" country="Sweden" state="Gästrikland" city="Gävle" name="Gävle sjukhus" ident="ESJA" lat="60.68144312924339" lon="17.11819161784349" alt="24.79417030792683" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="35" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.68144312924760" lon="17.11819161784443" heading="180.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="35" type="NONE" lat="60.68144312924105" lon="17.11819161784354" alt="24.78719473350793" heading="180.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="60.68144312924105" lon="17.11819161784354" alt="24.78719473350793" heading="180.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="193" groupID="35" groupGenerated="FALSE" region="Hälsingland" country="Sweden" state="Hälsingland" city="Bollnäs" name="Bollnäs Sjukhus" ident="ESJB" lat="61.35277753816109" lon="16.36104824123552" alt="74.44463632628322" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="35" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.35277753818971" lon="16.36104824123282" heading="353.313477" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="35" type="NONE" lat="61.35277753814983" lon="16.36104824123555" alt="74.42061663419008" heading="353.313477" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="193" groupID="36" groupGenerated="FALSE" region="Hälsingland" country="Sweden" state="Hälsingland" city="Bollnäs" name="Bollnäs Sjukhus" ident="ESJB" lat="61.35277753816109" lon="16.36104824123552" alt="74.44463632628322" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="36" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.35277753818971" lon="16.36104824123282" heading="353.313477" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="36" type="NONE" lat="61.35277753814983" lon="16.36104824123555" alt="74.42061663419008" heading="353.313477" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="61.35277753818181" lon="16.36104824123455" alt="75.33632216881961" heading="353.31347656250000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="194" groupID="36" groupGenerated="FALSE" region="Dalarna" country="Sweden" state="Dalarna" city="Mora" name="Mora lasarett" ident="ESJM" lat="61.01720848115374" lon="14.58422246470379" alt="204.41471710149199" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="36" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.01720848117775" lon="14.58422246470262" heading="212.311264" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="36" type="NONE" lat="61.01720848114285" lon="14.58422246470396" alt="204.22735610138625" heading="212.311264" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="194" groupID="37" groupGenerated="FALSE" region="Dalarna" country="Sweden" state="Dalarna" city="Mora" name="Mora lasarett" ident="ESJM" lat="61.01720848115374" lon="14.58422246470379" alt="204.41471710149199" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="37" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.01720848117775" lon="14.58422246470262" heading="212.311264" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="37" type="NONE" lat="61.01720848114285" lon="14.58422246470396" alt="204.22735610138625" heading="212.311264" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="61.01720848114285" lon="14.58422246470396" alt="204.22735610138625" heading="212.31126403808594"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="195" groupID="37" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Trollhättan" name="Norra Älvsborgs Länssjukhus" ident="ESNT" lat="58.31901654332095" lon="12.26819948033242" alt="99.03949194867164" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="37" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="58.31901893369479" lon="12.26819762925251" heading="272.583984" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="37" type="NONE" lat="58.31901734794722" lon="12.26819856537796" alt="99.04265659023076" heading="272.583984" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="195" groupID="38" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Trollhättan" name="Norra Älvsborgs Länssjukhus" ident="ESNT" lat="58.31901654332095" lon="12.26819948033242" alt="99.03949194867164" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="38" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="58.31901893369479" lon="12.26819762925251" heading="272.583984" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="38" type="NONE" lat="58.31901734794722" lon="12.26819856537796" alt="99.04265659023076" heading="272.583984" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="58.31901734794722" lon="12.26819856537796" alt="99.04265659023076" heading="272.58398437500000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="196" groupID="38" groupGenerated="FALSE" region="Östra Svealand" country="Sweden" state="Stockholm" city="Västerhaninge" name="Berga heliport" ident="ESQP" lat="59.06846560712886" lon="18.11413135910795" alt="2.45221505407244" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="38" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.06846560713803" lon="18.11413135910443" heading="180.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="38" type="NONE" lat="59.06846560713070" lon="18.11413135910785" alt="2.51464982703328" heading="180.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="196" groupID="39" groupGenerated="FALSE" region="Östra Svealand" country="Sweden" state="Stockholm" city="Västerhaninge" name="Berga heliport" ident="ESQP" lat="59.06846560712886" lon="18.11413135910795" alt="2.45221505407244" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="39" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.06846560713803" lon="18.11413135910443" heading="180.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="39" type="NONE" lat="59.06846560713070" lon="18.11413135910785" alt="2.51464982703328" heading="180.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.06846560713390" lon="18.11413135910587" alt="4.42534039169550" heading="180.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="197" groupID="39" groupGenerated="FALSE" region="Jämtland" country="Sweden" state="Jämtland" city="Åre" name="Åre Hälsocentral" ident="ESXB" lat="63.39418698358292" lon="13.09680783376013" alt="431.99863200820982" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="39" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.39418448165634" lon="13.09681102070500" heading="146.294846" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="39" type="NONE" lat="63.39418817108704" lon="13.09680777791055" alt="431.89783508423716" heading="146.294846" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="197" groupID="40" groupGenerated="FALSE" region="Jämtland" country="Sweden" state="Jämtland" city="Åre" name="Åre Hälsocentral" ident="ESXB" lat="63.39418698358292" lon="13.09680783376013" alt="431.99863200820982" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="40" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.39418448165634" lon="13.09681102070500" heading="146.294846" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="40" type="NONE" lat="63.39418817108704" lon="13.09680777791055" alt="431.89783508423716" heading="146.294846" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="63.39418817108704" lon="13.09680777791055" alt="431.89783508423716" heading="146.29484558105469"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="198" groupID="40" groupGenerated="FALSE" region="Dalsland" country="Sweden" state="Dalsland" city="Bäckefors" name="Dalslands sjukhus" ident="ESXD" lat="58.79759337812570" lon="12.16162865129044" alt="162.82489777170122" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="40" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="58.79759337818526" lon="12.16162865128993" heading="343.619446" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="40" type="NONE" lat="58.79759337816755" lon="12.16162865129038" alt="162.86838867142797" heading="343.619446" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="198" groupID="41" groupGenerated="FALSE" region="Dalsland" country="Sweden" state="Dalsland" city="Bäckefors" name="Dalslands sjukhus" ident="ESXD" lat="58.79759337812570" lon="12.16162865129044" alt="162.82489777170122" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="41" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="58.79759337818526" lon="12.16162865128993" heading="343.619446" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="41" type="NONE" lat="58.79759337816755" lon="12.16162865129038" alt="162.86838867142797" heading="343.619446" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="58.79759337816755" lon="12.16162865129038" alt="162.86838867142797" heading="343.61944580078125"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="199" groupID="41" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Fejan" ident="ESXF" lat="59.74365380913449" lon="19.16427177989590" alt="9.10845395084471" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="41" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.74365380914614" lon="19.16427177989679" heading="254.531570" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="41" type="NONE" lat="59.74365380914229" lon="19.16427177989577" alt="9.07078859116882" heading="254.531570" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="199" groupID="42" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Fejan" ident="ESXF" lat="59.74365380913449" lon="19.16427177989590" alt="9.10845395084471" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="42" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.74365380914614" lon="19.16427177989679" heading="254.531570" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="42" type="NONE" lat="59.74365380914229" lon="19.16427177989577" alt="9.07078859116882" heading="254.531570" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.74365380914229" lon="19.16427177989577" alt="9.07078859116882" heading="254.53157043457031"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="200" groupID="42" groupGenerated="FALSE" region="Gästrikland" country="Sweden" state="Gästrikland" city="Gävle" name="Gävle lotsplats" ident="ESXG" lat="60.73909974418733" lon="17.31790665143319" alt="0.91565183643252" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="42" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.73910275995505" lon="17.31791331941949" heading="213.000427" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="42" type="NONE" lat="60.73910275994826" lon="17.31791331941848" alt="0.83662096504122" heading="213.000427" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="200" groupID="43" groupGenerated="FALSE" region="Gästrikland" country="Sweden" state="Gästrikland" city="Gävle" name="Gävle lotsplats" ident="ESXG" lat="60.73909974418733" lon="17.31790665143319" alt="0.91565183643252" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="43" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.73910275995505" lon="17.31791331941949" heading="213.000427" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="43" type="NONE" lat="60.73910275994826" lon="17.31791331941848" alt="0.83662096504122" heading="213.000427" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="60.73910275994826" lon="17.31791331941848" alt="0.83662096504122" heading="213.00042724609375"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="201" groupID="43" groupGenerated="FALSE" region="Lappland" country="Sweden" state="Lappland" city="Kiruna" name="Nikkaluokta Helikopterplats" ident="ESXK" lat="67.85071545300306" lon="19.00475336978364" alt="479.76629292313010" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="43" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="67.85071545311352" lon="19.00475336978261" heading="54.297554" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="43" type="NONE" lat="67.85071545303633" lon="19.00475336978359" alt="479.73654247075319" heading="54.297554" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="201" groupID="44" groupGenerated="FALSE" region="Lappland" country="Sweden" state="Lappland" city="Kiruna" name="Nikkaluokta Helikopterplats" ident="ESXK" lat="67.85071545300306" lon="19.00475336978364" alt="479.76629292313010" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="44" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="67.85071545311352" lon="19.00475336978261" heading="54.297554" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="44" type="NONE" lat="67.85071545303633" lon="19.00475336978359" alt="479.73654247075319" heading="54.297554" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="67.85071545303633" lon="19.00475336978359" alt="479.73654247075319" heading="54.29755401611328"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="202" groupID="44" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Sandhamn" ident="ESXL" lat="59.28943878212816" lon="18.91577051575298" alt="0.67988588102162" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="44" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.28943878214161" lon="18.91577051575160" heading="237.575928" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="44" type="NONE" lat="59.28943878213740" lon="18.91577051575311" alt="0.53972669504583" heading="237.575928" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="202" groupID="45" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Sandhamn" ident="ESXL" lat="59.28943878212816" lon="18.91577051575298" alt="0.67988588102162" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="45" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.28943878214161" lon="18.91577051575160" heading="237.575928" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="45" type="NONE" lat="59.28943878213740" lon="18.91577051575311" alt="0.53972669504583" heading="237.575928" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.28943878213740" lon="18.91577051575311" alt="0.53972669504583" heading="237.57592773437500"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="203" groupID="45" groupGenerated="FALSE" region="Skåne" country="Sweden" state="Skåne" city="Malmö" name="Malmö Harbour Heliport" ident="ESXM" lat="55.61945317490288" lon="12.97820297172628" alt="0.50576387066394" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="45" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="55.61945317493360" lon="12.97820297171964" heading="180.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="45" type="CIRCLE" lat="55.61945317492446" lon="12.97820297172118" alt="0.43133816309273" heading="180.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="203" groupID="46" groupGenerated="FALSE" region="Skåne" country="Sweden" state="Skåne" city="Malmö" name="Malmö Harbour Heliport" ident="ESXM" lat="55.61945317490288" lon="12.97820297172628" alt="0.50576387066394" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="46" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="55.61945317493360" lon="12.97820297171964" heading="180.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="46" type="CIRCLE" lat="55.61945317492446" lon="12.97820297172118" alt="0.43133816309273" heading="180.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="55.61945317492446" lon="12.97820297172118" alt="0.43133816309273" heading="180.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="204" groupID="46" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Nynäshamn" ident="ESXN" lat="58.85017088513341" lon="17.83293491156596" alt="33.35093054082245" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="46" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="58.85017088513568" lon="17.83293491156599" heading="180.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="46" type="NONE" lat="58.85017088512753" lon="17.83293491156590" alt="33.38684731815010" heading="180.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="204" groupID="47" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Nynäshamn" ident="ESXN" lat="58.85017088513341" lon="17.83293491156596" alt="33.35093054082245" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="47" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="58.85017088513568" lon="17.83293491156599" heading="180.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="47" type="NONE" lat="58.85017088512753" lon="17.83293491156590" alt="33.38684731815010" heading="180.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="58.85017088512753" lon="17.83293491156590" alt="33.38684731815010" heading="180.00000000000000"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="205" groupID="47" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Skövde" name="Skaraborgs Sjukhus Skövde" ident="ESXO" lat="58.42542236572213" lon="13.84802907370038" alt="154.10212707333267" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="47" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="58.42542520067324" lon="13.84802793920908" heading="80.892609" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="47" type="NONE" lat="58.42542222559620" lon="13.84802721497851" alt="154.04805351328105" heading="80.892609" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="205" groupID="48" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Skövde" name="Skaraborgs Sjukhus Skövde" ident="ESXO" lat="58.42542236572213" lon="13.84802907370038" alt="154.10212707333267" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="48" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="58.42542520067324" lon="13.84802793920908" heading="80.892609" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="48" type="NONE" lat="58.42542222559620" lon="13.84802721497851" alt="154.04805351328105" heading="80.892609" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="58.42542222559620" lon="13.84802721497851" alt="154.04805351328105" heading="80.89260864257812"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="206" groupID="48" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Ornö" ident="ESXQ" lat="59.05226319607357" lon="18.43249668658601" alt="5.91845808271319" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="48" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.05226731400398" lon="18.43249379537960" heading="49.240341" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="48" type="NONE" lat="59.05226300616657" lon="18.43250021557758" alt="6.39115303847939" heading="49.240341" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="206" groupID="49" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Ornö" ident="ESXQ" lat="59.05226319607357" lon="18.43249668658601" alt="5.91845808271319" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="49" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.05226731400398" lon="18.43249379537960" heading="49.240341" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="49" type="NONE" lat="59.05226300616657" lon="18.43250021557758" alt="6.39115303847939" heading="49.240341" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.05226300616657" lon="18.43250021557758" alt="6.39115303847939" heading="49.24034118652344"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="207" groupID="49" groupGenerated="FALSE" region="Härjedalen" country="Sweden" state="Härjedalen" city="Sveg" name="Svegs Hälsocentral" ident="ESXS" lat="62.03964603056935" lon="14.35231133415826" alt="362.69422978628427" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="49" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="62.03964079495152" lon="14.35232439421377" heading="152.315506" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="49" type="NONE" lat="62.03964478306342" lon="14.35231731013663" alt="362.67044091224670" heading="152.315506" length="13.542061" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="207" groupID="50" groupGenerated="FALSE" region="Härjedalen" country="Sweden" state="Härjedalen" city="Sveg" name="Svegs Hälsocentral" ident="ESXS" lat="62.03964603056935" lon="14.35231133415826" alt="362.69422978628427" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="50" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="62.03964079495152" lon="14.35232439421377" heading="152.315506" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="50" type="NONE" lat="62.03964478306342" lon="14.35231731013663" alt="362.67044091224670" heading="152.315506" length="13.542061" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="62.03964478306342" lon="14.35231731013663" alt="362.67044091224670" heading="152.31550598144531"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="208" groupID="50" groupGenerated="FALSE" region="Småland" country="Sweden" state="Småland" city="Tranås" name="Helikopterplatta Tranås" ident="ESXT" lat="58.05158011085071" lon="15.00997971313057" alt="154.30857200641185" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="50" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="58.05158011085010" lon="15.00997971313501" heading="237.047226" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="50" type="NONE" lat="58.05158011084754" lon="15.00997971313046" alt="154.20614266302437" heading="237.047226" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="208" groupID="51" groupGenerated="FALSE" region="Småland" country="Sweden" state="Småland" city="Tranås" name="Helikopterplatta Tranås" ident="ESXT" lat="58.05158011085071" lon="15.00997971313057" alt="154.30857200641185" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="51" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="58.05158011085010" lon="15.00997971313501" heading="237.047226" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="51" type="NONE" lat="58.05158011084754" lon="15.00997971313046" alt="154.20614266302437" heading="237.047226" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="58.05158011084754" lon="15.00997971313046" alt="154.20614266302437" heading="237.04722595214844"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="209" groupID="51" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Vaxholm" ident="ESXV" lat="59.40040636183760" lon="18.33425763812317" alt="2.33409510925412" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="51" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.40040636183573" lon="18.33425763812105" heading="252.789505" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="51" type="NONE" lat="59.40040636181848" lon="18.33425763812339" alt="2.22782402299345" heading="264.779541" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="209" groupID="52" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Vaxholm" ident="ESXV" lat="59.40040636183760" lon="18.33425763812317" alt="2.33409510925412" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="52" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.40040636183573" lon="18.33425763812105" heading="252.789505" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="52" type="NONE" lat="59.40040636181848" lon="18.33425763812339" alt="2.22782402299345" heading="264.779541" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.40040636181848" lon="18.33425763812339" alt="2.22782402299345" heading="264.64685058593750"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="210" groupID="52" groupGenerated="FALSE" region="Jämtland" country="Sweden" state="Jämtland" city="Östersund" name="Göviken Heliport" ident="ESZG" lat="63.19152973380677" lon="14.63086462839504" alt="297.43459881562740" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="52" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.19152973388293" lon="14.63086462839009" heading="87.400452" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="52" type="NONE" lat="63.19152973386838" lon="14.63086462839468" alt="297.72650780621916" heading="87.400452" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+	<Airport groupIndex="210" groupID="53" groupGenerated="FALSE" region="Jämtland" country="Sweden" state="Jämtland" city="Östersund" name="Göviken Heliport" ident="ESZG" lat="63.19152973380677" lon="14.63086462839504" alt="297.43459881562740" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="53" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.19152973388293" lon="14.63086462839009" heading="87.400452" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="53" type="NONE" lat="63.19152973386838" lon="14.63086462839468" alt="297.72650780621916" heading="87.400452" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="63.19152973386838" lon="14.63086462839468" alt="297.72650780621916" heading="87.40045166015625"/>
 		<Aprons/>
 		<PaintedElements/>
