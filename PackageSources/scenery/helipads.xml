@@ -161,7 +161,7 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
-	<SceneryObject groupIndex="117" lat="60.60759662051766" lon="15.64534110825785" alt="33.12635724043241" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="117" lat="60.60774645431975" lon="15.64613624835662" alt="35.39579255697777" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
@@ -345,7 +345,7 @@
 		<LibraryObject name="{0F22934F-8739-42B7-8C6D-3C3A4689D104}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Pad_Circle-->
-	<SceneryObject groupIndex="118" lat="60.60759662032959" lon="15.64534110825373" alt="16.21780831025737" pitch="0.001045" bank="-0.001045" heading="79.859391" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="118" lat="60.60775348991696" lon="15.64616187409794" alt="16.78949755477885" pitch="0.001045" bank="-0.001045" heading="79.859391" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<NoSnow/>
 		<LibraryObject name="{0F22934F-8739-42B7-8C6D-3C3A4689D104}" scale="1.000000"/>
 	</SceneryObject>
@@ -579,7 +579,7 @@
 	<SceneryObject groupIndex="17" lat="60.13707571827163" lon="12.99794416123390" alt="10.06962569206277" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject groupIndex="34" lat="60.60785953787120" lon="15.64570618732608" alt="17.53765876628950" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="34" lat="60.60797667747724" lon="15.64570618732548" alt="16.23122082537088" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="30" lat="60.68172542482465" lon="17.11778206811438" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
@@ -944,10 +944,10 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="163" groupID="4" groupGenerated="FALSE" region="Dalarna" country="Sweden" state="Dalarna" city="Falun" name="Falu lasarett" ident="ESEF" lat="60.60759662060291" lon="15.64534110822574" alt="146.94313318096101" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="4" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.60759662070174" lon="15.64534110818112" heading="79.859390" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="4" type="NONE" lat="60.60759662048877" lon="15.64534110822574" alt="146.96255479566753" heading="79.859390" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="60.60759662048877" lon="15.64534110822574" alt="146.96255479566753" heading="79.85939025878906"/>
+	<Airport groupIndex="163" groupID="4" groupGenerated="FALSE" region="Dalarna" country="Sweden" state="Dalarna" city="Falun" name="Falu lasarett" ident="ESEF" lat="60.60775231747803" lon="15.64615960638971" alt="151.92274249251932" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="4" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.60773090917531" lon="15.64609804317698" heading="79.859390" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="4" type="NONE" lat="60.60775308318330" lon="15.64616098572488" alt="151.76400776114315" heading="79.859390" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.60775308318330" lon="15.64616098572488" alt="151.76400776114315" heading="79.85939025878906"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
