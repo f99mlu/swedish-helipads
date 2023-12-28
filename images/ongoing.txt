@@ -5,3 +5,65 @@ Norrtälje
 Uppland
 ESXC
 Square
+
+
+Akademiska Sjukhuset Uppsala
+Berga heliport
+Bergslagens Räddningstjänst
+***Blekingesjukhuset Karlskrona
+Bollnäs Sjukhus
+Centralsjukhuset Karlstad
+***Centralsjukhuset Kristianstad
+Dalslands sjukhus
+Danderyds sjukhus
+Falu lasarett
+Gävle lotsplats
+Gävle sjukhus
+Göviken Heliport
+Helikopterplatta Bylehamn
+***Helikopterplatta Degeberga
+Helikopterplatta Fejan
+Helikopterplatta Gamla stan
+Helikopterplatta Margretetorp
+Helikopterplatta Nynäshamn
+Helikopterplatta Ornö
+Helikopterplatta Sandhamn
+Helikopterplatta Tranås
+Helikopterplatta Vaxholm
+Helikopterplatta Överkalix
+Helsingborg/Hamnen Heliport
+Hudiksvalls Sjukhus
+Ingmarsö
+Ivare/Vassara
+Kalix Sjukhus
+Karolinska Universitetssjukhuset Huddinge
+Karolinska Universitetssjukhuset Solna (3 x helipads!)
+Kiruna Sjukhus
+Kungälvs Sjukhus
+***Lunds lasarett
+Lycksele lasarett
+Länssjukhuset Ryhov
+***Malmö Harbour Heliport
+Mora lasarett
+Nikkaluokta Helikopterplats
+Norra Älvsborgs Länssjukhus
+Norrlands universitetssjukhus
+Norrtälje Sjukhus
+Sahlgrenska Universitetssjukhuset
+Sjukhuset i Torsby
+Skaraborgs Sjukhus Skövde
+Skellefteå lasarett
+Stockholm-Gärdet heliport
+Sunderby sjukhus
+Sundsvalls sjukhus
+Svegs Hälsocentral
+Södersjukhuset
+Södra Älvsborgs sjukhus
+Uddevalla Sjukhus
+Universitetssjukhuset i Linköping
+Universitetssjukhuset Örebro
+***Visby Lasarett
+Västmanlands Sjukhus Västerås
+Åkersberga Helikopterflygplats
+Åre Hälsocentral
+Östra sjukhuset
