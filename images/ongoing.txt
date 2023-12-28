@@ -5,31 +5,3 @@ Norrtälje
 Uppland
 ESXC
 Square
-
-66.3300754, 22.8400938
-Helikopterplatta Överkalix
-Överkalix
-Norrbotten
-ESXH
-Square
-
-65.853706, 23.158428
-Kalix Sjukhus
-Kalix
-Norrbotten
-ESXJ
-Square
-
-59.310289, 14.099054
-Bergslagens Räddningstjänst
-Kristinehamn
-Värmland
-ESXR
-Circle
-
-56.334279, 12.888934
-Helikopterplatta Margretetorp
-Ängelholm
-Skåne
-ESXU
-Circle
