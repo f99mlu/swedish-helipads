@@ -924,7 +924,7 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="128" groupID="8" groupGenerated="FALSE" region="Skåne" country="Sweden" state="Skåne" city="Lund" name="Lunds lasarett" ident="ESEM" lat="55.71174217355937" lon="13.19879065248625" alt="106.31904789898545" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="8" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="55.71167722743136" lon="13.19875305358815" heading="198.560364" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="8" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="55.71174206899091" lon="13.19879131275223" heading="198.560364" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="8" type="NONE" lat="55.71174206899091" lon="13.19879131275223" alt="106.35181721672416" heading="198.560364" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="55.71174206902582" lon="13.19879131274592" alt="107.08636552933604" heading="198.56036376953125"/>
 		<Aprons/>
