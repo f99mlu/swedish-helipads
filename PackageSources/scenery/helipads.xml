@@ -487,7 +487,7 @@
 		<Vertex lat="60.13687720588240" lon="12.99754511558249"/>
 		<Vertex lat="60.13688295751071" lon="12.99739236274970"/>
 	</Polygon>
-	<Polygon groupIndex="15" altitude="41.25828521017745">
+	<Polygon groupIndex="15" altitude="41.25828552246094">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{8635DC68-32FC-41BC-87F0-E7AD7A8D4CBA}"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
 		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
@@ -1281,10 +1281,10 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="141" groupID="20" groupGenerated="FALSE" region="Skåne" country="Sweden" state="Skåne" city="Kristianstad" name="Centralsjukhuset Kristianstad" ident="ESHI" lat="56.02932119707612" lon="14.17179725222954" alt="2.92903176043183" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+	<Airport groupIndex="141" groupID="20" groupGenerated="FALSE" region="Skåne" country="Sweden" state="Skåne" city="Kristianstad" name="Centralsjukhuset Kristianstad" ident="ESHI" lat="56.02932119704855" lon="14.17183159022603" alt="2.34550685249269" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<TaxiwayParking parentGroupID="20" groupIndex="2" index="0" type="RAMP_GA_SMALL" lat="56.02932119706814" lon="14.17183287444675" heading="63.807968" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="20" type="MEDICAL" lat="56.02932148008805" lon="14.17183594149809" alt="2.90643329825252" heading="63.807968" length="8.968456" width="8.968456" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="56.02932148008805" lon="14.17183594149809" alt="2.90643329825252" heading="63.80796813964844"/>
+		<Helipad parentGroupID="20" type="MEDICAL" lat="56.02932148007304" lon="14.17183594149827" alt="2.39728457946330" heading="63.807968" length="8.968456" width="8.968456" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="56.02932148007304" lon="14.17183594149827" alt="2.39728457946330" heading="63.80796813964844"/>
 		<Aprons>
 			<Apron parentGroupID="20" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="56.02932097836106" lon="14.17166024345667"/>
