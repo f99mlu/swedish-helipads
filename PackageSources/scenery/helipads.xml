@@ -303,7 +303,7 @@
 		<LibraryObject name="{5FC95AED-0828-4F4D-BD1F-7F89C96C0484}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Pad_Square_Generic-->
-	<SceneryObject groupIndex="74" lat="59.32278490061542" lon="18.06618446455316" alt="0.62099280507261" pitch="0.001066" bank="-0.001066" heading="70.424762" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="74" lat="59.32278490061974" lon="18.06618446456969" alt="0.62099212471387" pitch="0.001066" bank="-0.001066" heading="70.424762" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<NoSnow/>
 		<LibraryObject name="{4F93F15D-9CC6-4FC0-9293-F9E07102CC81}" scale="1.000000"/>
 	</SceneryObject>
@@ -918,7 +918,7 @@
 	</Airport>
 	<Airport groupIndex="127" groupID="5" groupGenerated="FALSE" region="Lappland" country="Sweden" state="Lappland" city="Gällivare" name="Ivare/Vassara" ident="ESEG" lat="67.13656333127628" lon="20.63366660244229" alt="358.06264020968229" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<TaxiwayParking parentGroupID="5" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="67.13656333127857" lon="20.63367208594497" heading="264.074677" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="5" type="SQUARE" lat="67.13656333126050" lon="20.63366660244229" alt="358.07590456306934" heading="-98.012367" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
+		<Helipad parentGroupID="5" type="SQUARE" lat="67.13656333126050" lon="20.63366660244229" alt="358.07590456306934" heading="261.987640" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="67.13656333126050" lon="20.63366660244229" alt="358.07590456306934" heading="264.07467651367188"/>
 		<Aprons>
 			<Apron parentGroupID="5" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="1.710639" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
@@ -1273,10 +1273,10 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="140" groupID="18" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Gamla stan" ident="ESHG" lat="59.32278490061739" lon="18.06618446457478" alt="8.54004716221243" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+	<Airport groupIndex="140" groupID="18" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Gamla stan" ident="ESHG" lat="59.32278490060541" lon="18.06618446457812" alt="2.08510429132730" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<TaxiwayParking parentGroupID="18" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.32278490062182" lon="18.06618446457325" heading="70.424759" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="18" type="NONE" lat="59.32278490061683" lon="18.06618446457479" alt="8.43681373167783" heading="70.424759" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="59.32278490061683" lon="18.06618446457479" alt="8.43681373167783" heading="70.42475891113281"/>
+		<Helipad parentGroupID="18" type="NONE" lat="59.32278490060925" lon="18.06618446457809" alt="2.10942985676229" heading="70.424759" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="59.32278490060925" lon="18.06618446457809" alt="2.10942985676229" heading="70.42475891113281"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
@@ -1735,11 +1735,20 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="157" groupID="36" groupGenerated="FALSE" region="Hälsingland" country="Sweden" state="Hälsingland" city="Bollnäs" name="Bollnäs Sjukhus" ident="ESJB" lat="61.35279192009132" lon="16.36104579742004" alt="71.44882661383599" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="36" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.35279208706034" lon="16.36104824123304" heading="353.313477" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="36" groupIndex="2" index="0" type="RAMP_GA_SMALL" lat="61.35279208706034" lon="16.36104824123304" heading="353.313477" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="36" type="MEDICAL" lat="61.35279327399306" lon="16.36104824123613" alt="71.32830918394029" heading="353.313477" length="10.982189" width="10.982189" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="61.35279327402504" lon="16.36104824123513" alt="72.24401471856982" heading="353.31347656250000"/>
 		<Aprons>
-			<Apron parentGroupID="36" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="36" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="61.35291858677434" lon="16.36124784499132"/>
+				<Vertex lat="61.35290007089464" lon="16.36128541002295"/>
+				<Vertex lat="61.35303270604634" lon="16.36159276591633"/>
+				<Vertex lat="61.35311534794710" lon="16.36165343485909"/>
+				<Vertex lat="61.35311545360216" lon="16.36159437450214"/>
+				<Vertex lat="61.35304594820072" lon="16.36154591728515"/>
+				<Vertex lat="61.35304242384010" lon="16.36154235163891"/>
+			</Apron>
+			<Apron parentGroupID="36" groupIndex="3" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="61.35279343831285" lon="16.36071187024291"/>
 				<Vertex lat="61.35282531667807" lon="16.36071840890367"/>
 				<Vertex lat="61.35285597000621" lon="16.36073777432604"/>
@@ -2224,10 +2233,17 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="197" groupID="55" groupGenerated="FALSE" region="Värmland" country="Sweden" state="Värmland" city="Kristinehamn" name="Bergslagens Räddningstjänst" ident="ESXR" lat="59.31028899995799" lon="14.09905400004074" alt="48.07012936193496" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="55" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.31028900000000" lon="14.09905400000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="55" groupIndex="2" index="0" type="RAMP_GA_SMALL" lat="59.31028900000000" lon="14.09905400000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="55" type="CIRCLE" lat="59.31028899994272" lon="14.09905400004071" alt="48.04660232365131" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.31028899994272" lon="14.09905400004071" alt="48.04660232365131" heading="0.00000000000000"/>
-		<Aprons/>
+		<Aprons>
+			<Apron parentGroupID="55" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="59.31047886363805" lon="14.09856367419565"/>
+				<Vertex lat="59.31047886363805" lon="14.09936229431350"/>
+				<Vertex lat="59.30995986606281" lon="14.09936228822996"/>
+				<Vertex lat="59.30995986606281" lon="14.09856368027918"/>
+			</Apron>
+		</Aprons>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
@@ -2331,7 +2347,7 @@
 		<Helipad parentGroupID="58" type="H" lat="56.33427663201735" lon="12.88893400000959" alt="50.85712960828096" heading="0.000000" length="4.513265" width="4.513265" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="56.33427663201735" lon="12.88893400000959" alt="50.85712960828096" heading="0.00000000000000"/>
 		<Aprons>
-			<Apron parentGroupID="58" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="58" groupIndex="3" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="56.33427547177389" lon="12.88882999922336"/>
 				<Vertex lat="56.33428673353738" lon="12.88883199594922"/>
 				<Vertex lat="56.33429756252076" lon="12.88883790945713"/>
@@ -2365,13 +2381,19 @@
 				<Vertex lat="56.33425338104896" lon="12.88883790956110"/>
 				<Vertex lat="56.33426421002347" lon="12.88883199600569"/>
 			</Apron>
+			<Apron parentGroupID="58" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.679643" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="56.33442450268601" lon="12.88870094079116"/>
+				<Vertex lat="56.33443714150117" lon="12.88872909732980"/>
+				<Vertex lat="56.33432517308449" lon="12.88889197612415"/>
+				<Vertex lat="56.33431253430611" lon="12.88886381961412"/>
+			</Apron>
 		</Aprons>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="173" groupID="59" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Vaxholm" ident="ESXV" lat="59.40040289424876" lon="18.33428161493953" alt="0.09525521937758" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<TaxiwayParking parentGroupID="59" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.40040282257604" lon="18.33428167290670" heading="252.789505" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<Helipad parentGroupID="59" type="H" lat="59.40040370441844" lon="18.33427965667429" alt="0.06143279653043" heading="-90.326263" length="5.204099" width="5.204099" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
+		<Helipad parentGroupID="59" type="H" lat="59.40040370441844" lon="18.33427965667429" alt="0.06143279653043" heading="269.673737" length="5.204099" width="5.204099" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.40040370441844" lon="18.33427965667429" alt="0.06143279653043" heading="264.64685058593750"/>
 		<Aprons>
 			<Apron parentGroupID="59" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
