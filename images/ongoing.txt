@@ -6,29 +6,3 @@ Uppland
 ESXC
 Square
 
-project=sweden-heli
-missionType=heli
-plane=mupp
-
-heli_lat=56.02932148007304
-heli_lon=14.17183594149827
-heli_alt=2.39728457946330
-heli_heading=63.807968
-
-heli_name=Centralsjukhuset Kristianstad
-heli_city=Kristianstad
-heli_region=Skåne
-heli_country=Sweden
-heli_icao=ESHI
-heli_shape=Circle
-
-heli_lights=12
-heli_lights_angle=90
-heli_radius=100
-heli_snaptoground=false
-heli_light_lat=56.02939012085180
-heli_light_lon=14.17195835295241
-
-heli_index=350
-heli_id=275
-

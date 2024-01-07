@@ -417,6 +417,54 @@
 		<LibraryObject name="{AAA95AED-0828-AA4D-BD1F-7F89C96C0484}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="272" lat="57.72411276509849" lon="12.96433200000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AAA95AED-0828-AA4D-BD1F-7F89C96C0484}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="271" lat="57.72412606005435" lon="12.96442429474807" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AAA95AED-0828-AA4D-BD1F-7F89C96C0484}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="273" lat="57.72412606005435" lon="12.96423970525193" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AAA95AED-0828-AA4D-BD1F-7F89C96C0484}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="274" lat="57.72416238254925" lon="12.96417214080707" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AAA95AED-0828-AA4D-BD1F-7F89C96C0484}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="270" lat="57.72416238254925" lon="12.96449185919293" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AAA95AED-0828-AA4D-BD1F-7F89C96C0484}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="269" lat="57.72421200000000" lon="12.96451658949614" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AAA95AED-0828-AA4D-BD1F-7F89C96C0484}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="275" lat="57.72421200000000" lon="12.96414741050386" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AAA95AED-0828-AA4D-BD1F-7F89C96C0484}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="276" lat="57.72426161745076" lon="12.96417214080707" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AAA95AED-0828-AA4D-BD1F-7F89C96C0484}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="268" lat="57.72426161745076" lon="12.96449185919293" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AAA95AED-0828-AA4D-BD1F-7F89C96C0484}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="267" lat="57.72429793994566" lon="12.96442429474807" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AAA95AED-0828-AA4D-BD1F-7F89C96C0484}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="277" lat="57.72429793994566" lon="12.96423970525193" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AAA95AED-0828-AA4D-BD1F-7F89C96C0484}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
+	<SceneryObject groupIndex="266" lat="57.72431123490151" lon="12.96433200000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AAA95AED-0828-AA4D-BD1F-7F89C96C0484}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Runway-Lamp-->
 	<SceneryObject groupIndex="109" lat="58.79749659043693" lon="12.16163817387513" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{AAA95AED-0828-AA4D-BD1F-7F89C96C0484}" scale="1.000000"/>
 	</SceneryObject>
