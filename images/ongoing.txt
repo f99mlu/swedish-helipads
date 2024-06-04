@@ -1,8 +1,8 @@
 
-59.9057313, 18.9815021
-Helikopterplatta Bylehamn
-Norrtälje
-Uppland
-ESXC
+67.13103452992385, 20.683042295308883
+Gällivare sjukhus
+Gällivare
+Lappland
+ESXE
 Square
 
