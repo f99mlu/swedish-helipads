@@ -25,11 +25,11 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
-	<SceneryObject groupIndex="11" lat="63.39419337160633" lon="13.09679127782553" alt="19.44053859914129" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="11" lat="63.39419337145559" lon="13.09679127782355" alt="17.29898725767720" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
-	<SceneryObject groupIndex="12" lat="67.85071545282821" lon="19.00475336979007" alt="16.16391624339474" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="12" lat="67.85071545222229" lon="19.00475336978964" alt="17.78390412367332" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Pad_Square_Generic-->
@@ -49,12 +49,12 @@
 	<SceneryObject lat="59.06839231612945" lon="18.11473902018501" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
 	</SceneryObject>
-	<SceneryObject groupIndex="1" lat="63.39422783719952" lon="13.09715024316530" alt="18.27247760342289" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="1" lat="63.39412931576977" lon="13.09714287445621" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
 	</SceneryObject>
-	<Polygon groupIndex="2" altitude="425.84997558593750">
+	<Polygon groupIndex="2" altitude="464.92229043878615">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{55C0AFC2-FB5C-47A0-A620-9D76D3147B5D}"/>
-		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="22.392550"/>
+		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="10.028525"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="62"/>
@@ -72,29 +72,8 @@
 		<Vertex lat="63.39393692247126" lon="13.09657452538801"/>
 		<Vertex lat="63.39394212231259" lon="13.09668460302479"/>
 		<Vertex lat="63.39395736719332" lon="13.09682874353149"/>
-		<Vertex lat="63.39404066569742" lon="13.09701544712986"/>
+		<Vertex lat="63.39397792676353" lon="13.09712149707356"/>
 		<Vertex lat="63.39406803560892" lon="13.09707359558615"/>
-	</Polygon>
-	<Polygon groupIndex="14" altitude="479.96035766601562">
-		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{5EA7BBB2-3D78-4982-BCE4-A538AC5C6384}"/>
-		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="75.404266"/>
-		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
-		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
-		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="62"/>
-		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
-		<Attribute name="AffectRocks" guid="{F60DBBC7-DE6F-4FEA-BE7E-AFB1D73D57E7}" type="UINT8" value="1"/>
-		<Attribute name="ExcludeRocks" guid="{F104723A-D6D1-4B2E-9B44-ACCD8AB372DC}" type="UINT8" value="1"/>
-		<Attribute name="GeomeName" guid="{F0B11821-16FC-407B-BE5A-DBEB67A77571}" type="STRING" value=""/>
-		<Vertex lat="67.85061482974224" lon="19.00503523606766"/>
-		<Vertex lat="67.85075338106070" lon="19.00521956086000"/>
-		<Vertex lat="67.85084027202784" lon="19.00523501498981"/>
-		<Vertex lat="67.85089236419698" lon="19.00485602785422"/>
-		<Vertex lat="67.85083771027688" lon="19.00452913987201"/>
-		<Vertex lat="67.85075690137333" lon="19.00431730589445"/>
-		<Vertex lat="67.85065585645434" lon="19.00439912175358"/>
-		<Vertex lat="67.85057242607992" lon="19.00462529375924"/>
-		<Vertex lat="67.85054646283487" lon="19.00480022924366"/>
-		<Vertex lat="67.85054689888999" lon="19.00480082678268"/>
 	</Polygon>
 	<Polygon groupIndex="13" altitude="3.43024086952209">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{DFB90FED-93AF-4253-8831-63EFD72FB7E5}"/>
@@ -123,20 +102,39 @@
 		<Vertex lat="59.06836248690591" lon="18.11389194185767"/>
 		<Vertex lat="59.06831506502093" lon="18.11396754854518"/>
 	</Polygon>
-	<Airport groupIndex="15" groupID="4" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Gamla stan" ident="ESHG" lat="59.32278490060541" lon="18.06618446457812" alt="2.08510429132730" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+	<Polygon groupIndex="14" altitude="505.25683843251318">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{5EA7BBB2-3D78-4982-BCE4-A538AC5C6384}"/>
+		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="28.429016"/>
+		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
+		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="62"/>
+		<Attribute name="AffectRocks" guid="{F60DBBC7-DE6F-4FEA-BE7E-AFB1D73D57E7}" type="UINT8" value="1"/>
+		<Attribute name="ExcludeRocks" guid="{F104723A-D6D1-4B2E-9B44-ACCD8AB372DC}" type="UINT8" value="1"/>
+		<Attribute name="GeomeName" guid="{F0B11821-16FC-407B-BE5A-DBEB67A77571}" type="STRING" value=""/>
+		<Vertex lat="67.85057629252120" lon="19.00529617865724"/>
+		<Vertex lat="67.85075338106070" lon="19.00521956086000"/>
+		<Vertex lat="67.85084027202784" lon="19.00523501498981"/>
+		<Vertex lat="67.85089236419698" lon="19.00485602785422"/>
+		<Vertex lat="67.85093598350164" lon="19.00452913987152"/>
+		<Vertex lat="67.85088482615821" lon="19.00407245974542"/>
+		<Vertex lat="67.85066095275081" lon="19.00399281860266"/>
+		<Vertex lat="67.85051253252951" lon="19.00424138008218"/>
+		<Vertex lat="67.85042895942820" lon="19.00457233986051"/>
+		<Vertex lat="67.85048519746026" lon="19.00511313931715"/>
+	</Polygon>
+	<Airport groupIndex="15" groupID="1" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Gamla stan" ident="ESHG" lat="59.32278490060541" lon="18.06618446457812" alt="2.08510429132730" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		
-		<Helipad parentGroupID="4" type="NONE" lat="59.32278490060925" lon="18.06618446457809" alt="2.10942985676229" heading="70.424759" length="13.542000" width="13.542000" surface="CONCRETE" closed="FALSE" transparent="TRUE"/>
+		<Helipad parentGroupID="1" type="NONE" lat="59.32278490060925" lon="18.06618446457809" alt="2.10942985676229" heading="70.424759" length="13.542000" width="13.542000" surface="CONCRETE" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.32278490060925" lon="18.06618446457809" alt="2.10942985676229" heading="70.42475891113281"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="16" groupID="3" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Trollhättan" name="Norra Älvsborgs Länssjukhus" ident="ESNT" lat="58.31901654328262" lon="12.26819948032937" alt="95.97818459570408" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+	<Airport groupIndex="16" groupID="2" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Trollhättan" name="Norra Älvsborgs Länssjukhus" ident="ESNT" lat="58.31901654328262" lon="12.26819948032937" alt="95.97818459570408" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		
-		<Helipad parentGroupID="3" type="MEDICAL" lat="58.31901734788377" lon="12.26819856538210" alt="95.93416510708630" heading="272.583984" length="8.820870" width="8.820870" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
+		<Helipad parentGroupID="2" type="MEDICAL" lat="58.31901734788377" lon="12.26819856538210" alt="95.93416510708630" heading="272.583984" length="8.820870" width="8.820870" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="58.31901734788377" lon="12.26819856538210" alt="95.93416510708630" heading="272.58398437500000"/>
 		<Aprons>
-			<Apron parentGroupID="3" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="2" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="58.31901666526419" lon="12.26799803583186"/>
 				<Vertex lat="58.31903738287180" lon="12.26800191378433"/>
 				<Vertex lat="58.31905730432458" lon="12.26801339885891"/>
@@ -170,7 +168,7 @@
 				<Vertex lat="58.31897602626729" lon="12.26801339927322"/>
 				<Vertex lat="58.31899594768677" lon="12.26800191400898"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="2" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="58.31904194013383" lon="12.26773595457601"/>
 				<Vertex lat="58.31904194013383" lon="12.26801003773470"/>
 				<Vertex lat="58.31900300519804" lon="12.26801003758409"/>
@@ -180,12 +178,12 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="17" groupID="7" groupGenerated="FALSE" region="Östra Svealand" country="Sweden" state="Stockholm" city="Västerhaninge" name="Berga heliport" ident="ESQP" lat="59.06846560711244" lon="18.11413135910979" alt="0.65605590306222" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+	<Airport groupIndex="17" groupID="3" groupGenerated="FALSE" region="Östra Svealand" country="Sweden" state="Stockholm" city="Västerhaninge" name="Berga heliport" ident="ESQP" lat="59.06846560711244" lon="18.11413135910979" alt="0.65605590306222" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		
-		<Helipad parentGroupID="7" type="CIRCLE" lat="59.06846560712210" lon="18.11413135910979" alt="0.64876095298678" heading="180.000000" length="10.694136" width="10.694136" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
+		<Helipad parentGroupID="3" type="CIRCLE" lat="59.06846560712210" lon="18.11413135910979" alt="0.64876095298678" heading="180.000000" length="10.694136" width="10.694136" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.06846560712530" lon="18.11413135910781" alt="2.55945151764900" heading="180.00000000000000"/>
 		<Aprons>
-			<Apron parentGroupID="7" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="3" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="59.06846728629812" lon="18.11388862483852"/>
 				<Vertex lat="59.06849170637990" lon="18.11389329554967"/>
 				<Vertex lat="59.06851518802777" lon="18.11390712854827"/>
@@ -223,21 +221,20 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="18" groupID="1" groupGenerated="FALSE" region="Jämtland" country="Sweden" state="Jämtland" city="Åre" name="Åre Hälsocentral" ident="ESXB" lat="63.39417140990937" lon="13.09685233826168" alt="425.87022220715880" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+	<Airport groupIndex="18" groupID="4" groupGenerated="FALSE" region="Jämtland" country="Sweden" state="Jämtland" city="Åre" name="Åre Hälsocentral" ident="ESXB" lat="63.39417140975482" lon="13.09685233828086" alt="464.93106785509735" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		
-		<Helipad parentGroupID="1" type="SQUARE" lat="63.39416979651805" lon="13.09685316595408" alt="425.88404137734324" heading="146.294846" length="8.624146" width="8.624146" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="63.39416979651805" lon="13.09685316595408" alt="425.88404137734324" heading="146.29484558105469"/>
+		<Helipad parentGroupID="4" type="SQUARE" lat="63.39416979623037" lon="13.09685316596821" alt="464.99036505445838" heading="146.294846" length="8.624146" width="8.624146" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="63.39416979623037" lon="13.09685316596821" alt="464.99036505445838" heading="146.29484558105469"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="24" groupID="5" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Ingmarsö" ident="ESXI" lat="59.47566828047152" lon="18.74964370320489" alt="0.14608421549201" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		
-		<TaxiwayParking parentGroupID="5" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.47566885397836" lon="18.74964579786560" heading="0.000000" radius="4.640000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="5" type="H" lat="59.47566947852528" lon="18.74964392050571" alt="0.18588524498045" heading="329.536682" length="7.060904" width="7.060904" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.47566947852528" lon="18.74964392050571" alt="0.18588524498045" heading="0.00000000000000"/>
 		<Aprons>
-			<Apron parentGroupID="5" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.531685" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="5" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.531685" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="59.47568643908628" lon="18.74947914007370"/>
 				<Vertex lat="59.47575165116452" lon="18.74969705089787"/>
 				<Vertex lat="59.47564078091356" lon="18.74982522204336"/>
@@ -247,20 +244,20 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="19" groupID="9" groupGenerated="FALSE" region="Lappland" country="Sweden" state="Lappland" city="Kiruna" name="Nikkaluokta Helikopterplats" ident="ESXK" lat="67.85070266502456" lon="19.00475336978352" alt="479.97014911472797" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+	<Airport groupIndex="19" groupID="6" groupGenerated="FALSE" region="Lappland" country="Sweden" state="Lappland" city="Kiruna" name="Nikkaluokta Helikopterplats" ident="ESXK" lat="67.85070266477972" lon="19.00475336976351" alt="506.27435101568699" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		
-		<Helipad parentGroupID="9" type="SQUARE" lat="67.85070256199296" lon="19.00475968436303" alt="479.96286465413868" heading="54.297554" length="13.542000" width="13.542000" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="67.85070256199296" lon="19.00475968436303" alt="479.96286465413868" heading="54.29755401611328"/>
+		<Helipad parentGroupID="6" type="SQUARE" lat="67.85070256161367" lon="19.00475968435359" alt="506.26418779231608" heading="54.297554" length="13.542000" width="13.542000" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="67.85070256161367" lon="19.00475968435359" alt="506.26418779231608" heading="54.29755401611328"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="20" groupID="2" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Skövde" name="Skaraborgs Sjukhus Skövde" ident="ESXO" lat="58.42538021584433" lon="13.84800838092070" alt="150.54790640715510" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+	<Airport groupIndex="20" groupID="7" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Skövde" name="Skaraborgs Sjukhus Skövde" ident="ESXO" lat="58.42538021584433" lon="13.84800838092070" alt="150.54790640715510" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		
-		<Helipad parentGroupID="2" type="MEDICAL" lat="58.42537995970226" lon="13.84800900342158" alt="150.52606994751841" heading="104.913033" length="10.711254" width="10.711254" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
+		<Helipad parentGroupID="7" type="MEDICAL" lat="58.42537995970226" lon="13.84800900342158" alt="150.52606994751841" heading="104.913033" length="10.711254" width="10.711254" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="58.42537995970226" lon="13.84800900342158" alt="150.52606994751841" heading="80.89260864257812"/>
 		<Aprons>
-			<Apron parentGroupID="2" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="7" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="58.42538026803551" lon="13.84778322352108"/>
 				<Vertex lat="58.42540322033955" lon="13.84778753276721"/>
 				<Vertex lat="58.42542529061347" lon="13.84780029520633"/>
@@ -294,13 +291,13 @@
 				<Vertex lat="58.42533524553352" lon="13.84780029572020"/>
 				<Vertex lat="58.42535731576634" lon="13.84778753304576"/>
 			</Apron>
-			<Apron parentGroupID="2" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.089767" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="7" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.089767" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="58.42539951675801" lon="13.84821792210550"/>
 				<Vertex lat="58.42541157279972" lon="13.84847325782725"/>
 				<Vertex lat="58.42537340214972" lon="13.84847980715657"/>
 				<Vertex lat="58.42536134612097" lon="13.84822447170886"/>
 			</Apron>
-			<Apron parentGroupID="2" groupIndex="3" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="1.115717" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="7" groupIndex="3" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="1.115717" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="58.42539126047762" lon="13.84841234353578"/>
 				<Vertex lat="58.42565752138520" lon="13.84866071785663"/>
 				<Vertex lat="58.42564018543440" lon="13.84872825365231"/>
