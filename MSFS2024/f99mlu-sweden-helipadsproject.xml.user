@@ -2,9 +2,7 @@
 	<CheckedOutPackages>
 		<Package Name="f99mlu-sweden-helipads"/>
 	</CheckedOutPackages>
-	<SelectedPackages>
-		<Package Name="f99mlu-sweden-helipads"/>
-	</SelectedPackages>
+	<SelectedPackages/>
 	<Filter/>
 	<ShowOnlyEdited>false</ShowOnlyEdited>
 </UserSettings>
