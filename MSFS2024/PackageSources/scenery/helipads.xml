@@ -122,7 +122,6 @@
 		<Vertex lat="67.85048519746026" lon="19.00511313931715"/>
 	</Polygon>
 	<Airport groupIndex="15" groupID="1" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Gamla stan" ident="ESHG" lat="59.32278490060541" lon="18.06618446457812" alt="2.08510429132730" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		
 		<Helipad parentGroupID="1" type="NONE" lat="59.32278490060925" lon="18.06618446457809" alt="2.10942985676229" heading="70.424759" length="13.542000" width="13.542000" surface="CONCRETE" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.32278490060925" lon="18.06618446457809" alt="2.10942985676229" heading="70.42475891113281"/>
 		<Aprons/>
@@ -130,7 +129,6 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="16" groupID="2" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Trollhättan" name="Norra Älvsborgs Länssjukhus" ident="ESNT" lat="58.31901654328262" lon="12.26819948032937" alt="95.97818459570408" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		
 		<Helipad parentGroupID="2" type="MEDICAL" lat="58.31901734788377" lon="12.26819856538210" alt="95.93416510708630" heading="272.583984" length="8.820870" width="8.820870" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="58.31901734788377" lon="12.26819856538210" alt="95.93416510708630" heading="272.58398437500000"/>
 		<Aprons>
@@ -179,7 +177,6 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="17" groupID="3" groupGenerated="FALSE" region="Östra Svealand" country="Sweden" state="Stockholm" city="Västerhaninge" name="Berga heliport" ident="ESQP" lat="59.06846560711244" lon="18.11413135910979" alt="0.65605590306222" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		
 		<Helipad parentGroupID="3" type="CIRCLE" lat="59.06846560712210" lon="18.11413135910979" alt="0.64876095298678" heading="180.000000" length="10.694136" width="10.694136" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.06846560712530" lon="18.11413135910781" alt="2.55945151764900" heading="180.00000000000000"/>
 		<Aprons>
@@ -222,7 +219,6 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="18" groupID="4" groupGenerated="FALSE" region="Jämtland" country="Sweden" state="Jämtland" city="Åre" name="Åre Hälsocentral" ident="ESXB" lat="63.39417140975482" lon="13.09685233828086" alt="464.93106785509735" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		
 		<Helipad parentGroupID="4" type="SQUARE" lat="63.39416979623037" lon="13.09685316596821" alt="464.99036505445838" heading="146.294846" length="8.624146" width="8.624146" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="63.39416979623037" lon="13.09685316596821" alt="464.99036505445838" heading="146.29484558105469"/>
 		<Aprons/>
@@ -230,7 +226,6 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="24" groupID="5" groupGenerated="FALSE" region="Södermanland" country="Sweden" state="Södermanland" city="Stockholm" name="Helikopterplatta Ingmarsö" ident="ESXI" lat="59.47566828047152" lon="18.74964370320489" alt="0.14608421549201" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		
 		<Helipad parentGroupID="5" type="H" lat="59.47566947852528" lon="18.74964392050571" alt="0.18588524498045" heading="329.536682" length="7.060904" width="7.060904" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="59.47566947852528" lon="18.74964392050571" alt="0.18588524498045" heading="0.00000000000000"/>
 		<Aprons>
@@ -245,7 +240,6 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="19" groupID="6" groupGenerated="FALSE" region="Lappland" country="Sweden" state="Lappland" city="Kiruna" name="Nikkaluokta Helikopterplats" ident="ESXK" lat="67.85070266477972" lon="19.00475336976351" alt="506.27435101568699" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		
 		<Helipad parentGroupID="6" type="SQUARE" lat="67.85070256161367" lon="19.00475968435359" alt="506.26418779231608" heading="54.297554" length="13.542000" width="13.542000" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="67.85070256161367" lon="19.00475968435359" alt="506.26418779231608" heading="54.29755401611328"/>
 		<Aprons/>
@@ -253,7 +247,6 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="20" groupID="7" groupGenerated="FALSE" region="Västra Götaland" country="Sweden" state="Västra Götaland" city="Skövde" name="Skaraborgs Sjukhus Skövde" ident="ESXO" lat="58.42538021584433" lon="13.84800838092070" alt="150.54790640715510" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		
 		<Helipad parentGroupID="7" type="MEDICAL" lat="58.42537995970226" lon="13.84800900342158" alt="150.52606994751841" heading="104.913033" length="10.711254" width="10.711254" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="58.42537995970226" lon="13.84800900342158" alt="150.52606994751841" heading="80.89260864257812"/>
 		<Aprons>
@@ -308,7 +301,6 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="21" groupID="8" groupGenerated="FALSE" region="Småland" country="Sweden" state="Småland" city="Tranås" name="Helikopterplatta Tranås" ident="ESXT" lat="58.05157631993277" lon="15.01003880803014" alt="153.54246529098600" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		
 		<Helipad parentGroupID="8" type="CIRCLE" lat="58.05157411802509" lon="15.01003999946901" alt="153.64201068412513" heading="237.047226" length="6.844380" width="6.844380" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="58.05157411802509" lon="15.01003999946901" alt="153.64201068412513" heading="237.04722595214844"/>
 		<Aprons>
@@ -351,4 +343,3 @@
 		<ApronEdgeLights/>
 	</Airport>
 </FSData>
-
