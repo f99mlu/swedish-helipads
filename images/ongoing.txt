@@ -1,8 +1,8 @@
 
-67.13103452992385, 20.683042295308883
-Gällivare sjukhus
-Gällivare
+67.86813358590143, 18.626479239162276
+Kebnekaise Fjällstation
+Kiruna
 Lappland
-ESXE
+ESXY
 Square
 

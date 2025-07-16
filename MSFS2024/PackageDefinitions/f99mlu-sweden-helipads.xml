@@ -10,6 +10,7 @@
 		<VisibleInStore>false</VisibleInStore>
 		<CanBeReferenced>false</CanBeReferenced>
 	</Flags>
+	<PackageOrderHint>GENERIC_MODELLIB_PATCH</PackageOrderHint>
 	<AssetGroups>
 		<AssetGroup Name="ContentInfo">
 			<Type Version="0">ContentInfo</Type>

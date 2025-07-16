@@ -29,8 +29,21 @@
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="25" lat="65.83834282872515" lon="24.14170808142520" alt="17.16880729945818" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
 	<SceneryObject groupIndex="12" lat="67.85071545222229" lon="19.00475336978964" alt="17.78390412367332" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="28" lat="67.86810607830417" lon="18.62660840009083" alt="16.60190843408043" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Pad_Square-->
+	<SceneryObject groupIndex="29" lat="67.86811161068718" lon="18.62661023392808" alt="0.24177293214098" pitch="0.001544" bank="-0.003039" heading="-64.535671" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoSnow/>
+		<LibraryObject name="{5FC95AED-0828-4F4D-BD1F-7F89C96C0484}" scale="0.466714"/>
 	</SceneryObject>
 	<!--SceneryObject name: Pad_Square_Generic-->
 	<SceneryObject groupIndex="10" lat="59.32278490061974" lon="18.06618446456969" alt="0.62099212471387" pitch="0.001066" bank="-0.001066" heading="70.424762" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
@@ -46,13 +59,42 @@
 	<SceneryObject groupIndex="23" lat="59.47562552172582" lon="18.74903827683324" alt="0.00590350715392" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
+	<SceneryObject groupIndex="26" lat="65.83801199369918" lon="24.14147594221518" alt="8.37487667482828" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="30" lat="67.86813358147199" lon="18.62563403598038" alt="0.07928618135827" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
 	<SceneryObject lat="59.06839231612945" lon="18.11473902018501" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="1" lat="63.39412931576977" lon="13.09714287445621" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
 	</SceneryObject>
-	<Polygon groupIndex="2" altitude="464.92229043878615">
+	<Polygon groupIndex="31" altitude="680.70965576171875">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{86280B12-6012-4817-8C02-6E06F72B86A1}"/>
+		<Attribute name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}" type="UINT8" value="1"/>
+		<Attribute name="ExcludeOSMBuildings" guid="{F3C2635D-9F2F-458F-8663-90B3837BED09}" type="UINT8" value="1"/>
+		<Attribute name="ExcludeMSBuildings" guid="{F78A3074-8AD5-4B8B-92C4-C1C948BB7AA5}" type="UINT8" value="1"/>
+		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
+		<Attribute name="ExcludeTIN" guid="{18B58CBF-AE02-4A19-8AA9-3809E8E73400}" type="UINT8" value="1"/>
+		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="62"/>
+		<Attribute name="AffectRocks" guid="{F60DBBC7-DE6F-4FEA-BE7E-AFB1D73D57E7}" type="UINT8" value="1"/>
+		<Attribute name="ExcludeRocks" guid="{F104723A-D6D1-4B2E-9B44-ACCD8AB372DC}" type="UINT8" value="1"/>
+		<Vertex lat="67.86785434410297" lon="18.62616044638706"/>
+		<Vertex lat="67.86784655774002" lon="18.62663544624592"/>
+		<Vertex lat="67.86804734652866" lon="18.62756869409173"/>
+		<Vertex lat="67.86833705322761" lon="18.62765552062974"/>
+		<Vertex lat="67.86852755632994" lon="18.62736323581719"/>
+		<Vertex lat="67.86859335388611" lon="18.62666457138918"/>
+		<Vertex lat="67.86859610374134" lon="18.62587572663296"/>
+		<Vertex lat="67.86843204530958" lon="18.62528672064638"/>
+		<Vertex lat="67.86823199737167" lon="18.62517143770489"/>
+		<Vertex lat="67.86805116424743" lon="18.62534120511580"/>
+		<Vertex lat="67.86791203514028" lon="18.62578893623616"/>
+		<Vertex lat="67.86792061799547" lon="18.62578140210396"/>
+	</Polygon>
+	<Polygon groupIndex="2" altitude="464.92230224609375">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{55C0AFC2-FB5C-47A0-A620-9D76D3147B5D}"/>
 		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="10.028525"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
@@ -61,7 +103,7 @@
 		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
 		<Attribute name="AffectRocks" guid="{F60DBBC7-DE6F-4FEA-BE7E-AFB1D73D57E7}" type="UINT8" value="1"/>
 		<Attribute name="ExcludeRocks" guid="{F104723A-D6D1-4B2E-9B44-ACCD8AB372DC}" type="UINT8" value="1"/>
-		<Attribute name="GeomeName" guid="{F0B11821-16FC-407B-BE5A-DBEB67A77571}" type="STRING" value=""/>
+		<Attribute name="ForceElevation" guid="{9460843D-964B-4E45-AC49-634856FB6E1C}" type="UINT8" value="1"/>
 		<Vertex lat="63.39408512394465" lon="13.09708011388803"/>
 		<Vertex lat="63.39419698583026" lon="13.09713125675949"/>
 		<Vertex lat="63.39440296067576" lon="13.09689447611012"/>
@@ -81,7 +123,6 @@
 		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="62"/>
 		<Attribute name="AffectRocks" guid="{F60DBBC7-DE6F-4FEA-BE7E-AFB1D73D57E7}" type="UINT8" value="1"/>
 		<Attribute name="ExcludeRocks" guid="{F104723A-D6D1-4B2E-9B44-ACCD8AB372DC}" type="UINT8" value="1"/>
-		<Attribute name="GeomeName" guid="{F0B11821-16FC-407B-BE5A-DBEB67A77571}" type="STRING" value=""/>
 		<Vertex lat="59.06825665089146" lon="18.11403794689331"/>
 		<Vertex lat="59.06823848111117" lon="18.11425813222542"/>
 		<Vertex lat="59.06836474031648" lon="18.11421973385520"/>
@@ -102,14 +143,13 @@
 		<Vertex lat="59.06836248690591" lon="18.11389194185767"/>
 		<Vertex lat="59.06831506502093" lon="18.11396754854518"/>
 	</Polygon>
-	<Polygon groupIndex="14" altitude="505.25683843251318">
+	<Polygon groupIndex="14" altitude="505.25683593750000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{5EA7BBB2-3D78-4982-BCE4-A538AC5C6384}"/>
 		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="28.429016"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="62"/>
 		<Attribute name="AffectRocks" guid="{F60DBBC7-DE6F-4FEA-BE7E-AFB1D73D57E7}" type="UINT8" value="1"/>
 		<Attribute name="ExcludeRocks" guid="{F104723A-D6D1-4B2E-9B44-ACCD8AB372DC}" type="UINT8" value="1"/>
-		<Attribute name="GeomeName" guid="{F0B11821-16FC-407B-BE5A-DBEB67A77571}" type="STRING" value=""/>
 		<Vertex lat="67.85057629252120" lon="19.00529617865724"/>
 		<Vertex lat="67.85075338106070" lon="19.00521956086000"/>
 		<Vertex lat="67.85084027202784" lon="19.00523501498981"/>
@@ -339,6 +379,22 @@
 				<Vertex lat="58.05156445288134" lon="15.00994724510901"/>
 			</Apron>
 		</Aprons>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+	<Airport groupIndex="27" groupID="9" groupGenerated="FALSE" region="Norrbotten" country="Sweden" state="Norrbotten" city="Haparanda" name="Haparanda Polisstation" ident="ESXW" lat="65.83834493170116" lon="24.14169533644775" alt="2.29311143886298" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="9" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="65.83834584620847" lon="24.14169548194113" heading="263.968872" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="9" type="SQUARE" lat="65.83834707198220" lon="24.14168820140550" alt="2.19605617411435" heading="263.968872" length="15.085609" width="16.164661" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="65.83834707198220" lon="24.14168820140550" alt="2.19605617411435" heading="263.96887207031250"/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+	<Airport groupIndex="32" groupID="10" groupGenerated="FALSE" region="Lappland" country="Sweden" state="Lappland" city="Kiruna" name="Kebnekaise Fjällstation" ident="ESXY" lat="67.86811249829252" lon="18.62661016956017" alt="707.14060726016760" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="10" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="67.86811209046094" lon="18.62660959922939" heading="24.676981" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="10" type="NONE" lat="67.86811247564061" lon="18.62660858694705" alt="707.10997195821255" heading="24.676981" length="13.542000" width="13.542000" surface="CONCRETE" closed="FALSE" transparent="TRUE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="67.86811247564061" lon="18.62660858694705" alt="707.10997195821255" heading="24.67698097229004"/>
+		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
