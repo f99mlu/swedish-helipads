@@ -1,8 +1,22 @@
+Arctic Heli
+Helikopterplatta Arkösund
+Helikopterplatta Harstena
+Helikopterplatta Kungshamn
+Helikopterplatta Lindholmen
+Helikopterplatta Lysekil
+Helikopterplatta Pinnö
 
-67.86813358590143, 18.626479239162276
-Kebnekaise Fjällstation
+58.2849942752317, 11.436965040198839
+Helikopterplatta Lysekil
+Lysekil
+Västra Götaland
+ESYE
+Circle
+
+67.88221314580635, 20.15956778606135
+Arctic Heli
 Kiruna
 Lappland
-ESXY
+ESXA
 Square
 

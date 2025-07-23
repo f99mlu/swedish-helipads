@@ -40,6 +40,10 @@
 	<SceneryObject groupIndex="28" lat="67.86810607830417" lon="18.62660840009083" alt="16.60190843408043" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="33" lat="67.88221314508544" lon="20.15956778618684" alt="16.32143158930899" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject name: Pad_Square-->
 	<SceneryObject groupIndex="29" lat="67.86811161068718" lon="18.62661023392808" alt="0.24177293214098" pitch="0.001544" bank="-0.003039" heading="-64.535671" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<NoSnow/>
@@ -63,6 +67,9 @@
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="30" lat="67.86813358147199" lon="18.62563403598038" alt="0.07928618135827" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<SimObject containerTitle="Windsock" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="34" lat="67.88269876858814" lon="20.15904332732801" alt="-0.23360623528276" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject lat="59.06839231612945" lon="18.11473902018501" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
@@ -255,6 +262,14 @@
 				<Vertex lat="59.06844286625510" lon="18.11389329587993"/>
 			</Apron>
 		</Aprons>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+	<Airport groupIndex="35" groupID="11" groupGenerated="FALSE" region="Lappland" country="Sweden" state="Lappland" city="Kiruna" name="Arctic Heli" ident="ESXA" lat="67.88222222622423" lon="20.15956469399321" alt="498.27979873120785" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="11" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="67.88222195068610" lon="20.15956778612023" heading="-17.611656" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<Helipad parentGroupID="11" type="H" lat="67.88222363368105" lon="20.15956499104651" alt="498.14455052558333" heading="-17.611656" length="7.047707" width="7.047707" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="67.88222363368105" lon="20.15956499104651" alt="498.14455052558333" heading="-17.611656"/>
+		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
